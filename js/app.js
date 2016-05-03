@@ -32,7 +32,7 @@ $("#offence_city").change(function(){
 });
 
 $("#time_city").change(function(){
-  selected_time_city = $( "#selected_time option:selected" ).text();
+  selected_time_city = $( "#time_city option:selected" ).text();
   drawPredictCity();
 });
 
