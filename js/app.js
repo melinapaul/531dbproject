@@ -2,6 +2,10 @@ var selected_day = "";
 var selected_time = "";
 var selected_city = "";
 
+var selected_day_city = "";
+var selected_time_city = "";
+var selected_offence_city = "";
+
 $("#day").change(function(){
   selected_day = $( "#day option:selected" ).text();
   drawPredict();
@@ -15,6 +19,21 @@ $("#city").change(function(){
 $("#time").change(function(){
   selected_time = $( "#time option:selected" ).text();
   drawPredict();
+});
+
+$("#day_city").change(function(){
+  selected_day_city = $( "#day_city option:selected" ).text();
+  drawPredictCity();
+});
+
+$("#offence_city").change(function(){
+  selected_offence_city = $( "#offence_city option:selected" ).text();
+  drawPredictCity();
+});
+
+$("#time_city").change(function(){
+  selected_time_city = $( "#selected_time option:selected" ).text();
+  drawPredictCity();
 });
 
 init();
@@ -32,6 +51,7 @@ function init(){
 
 function drawChart() {
   drawPredict();
+  drawPredictCity();
 
   $.get("http://ec2-54-209-48-230.compute-1.amazonaws.com/getDataAggregate.php", function( data ) {
     drawAggregateChart(data);
@@ -111,6 +131,25 @@ function drawPredict() {
       levelColors: ["#e74c3c", "#e74c3c", "#e74c3c"],
       title: "Theft - " + parseFloat(jsonData.predictedScores.Theft).toFixed(2)*100 + "%"
     });
+
+    $("#overlay").hide();
+
+  });
+}
+
+function drawPredictCity() {
+
+  $("#overlay").show();
+
+  $.get("http://ec2-54-209-48-230.compute-1.amazonaws.com/getPredictionCity.php?day="+selected_day_city+"&time="+selected_time_city+"&city="+selected_offence_city, function( data ) {
+    //alert( "Load was performed." + data);
+
+    var jsonData = JSON.parse(data);
+
+    console.log(jsonData);
+    
+    //$("#predicted_crime").text(jsonData.predictedLabel);
+
 
     $("#overlay").hide();
 
@@ -248,4 +287,3 @@ function drawAggregateChart(data) {
 
       $("#overlay").hide();
 }
-
