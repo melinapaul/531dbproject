@@ -141,7 +141,7 @@ function drawPredictCity() {
 
   $("#overlay").show();
 
-  $.get("http://ec2-54-209-48-230.compute-1.amazonaws.com/getPredictionCity.php?day="+selected_day_city+"&time="+selected_time_city+"&city="+selected_offence_city, function( data ) {
+  $.get("http://ec2-54-209-48-230.compute-1.amazonaws.com/getPredictionCity.php?day="+selected_day_city+"&time="+selected_time_city+"&offence="+selected_offence_city, function( data ) {
     //alert( "Load was performed." + data);
 
     var jsonData = JSON.parse(data);
