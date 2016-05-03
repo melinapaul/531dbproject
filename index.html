@@ -215,7 +215,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="row">
             <div class="col-lg-2 col-lg-offset-1 text-center">
                 <div id="murder_meter"></div>
@@ -234,18 +234,12 @@
             </div>
           </div>
 
-          <div class="row">
-              <div class="col-lg-12 text-center">
-                  <h2>Predict</h2>
-                  <hr class="star-primary">
-              </div>
 
-          </div>
           <div class="row">
             <div class="col-lg-4">
               <div class="form-group">
                 <label for="sel1">Select Day:</label>
-                <select class="form-control" id="day">
+                <select class="form-control" id="day_city">
                   <option></option>
                   <option>Monday</option>
                   <option>Tuesday</option>
@@ -261,7 +255,7 @@
             <div class="col-lg-4">
               <div class="form-group">
                 <label for="sel1">Select Time:</label>
-                <select class="form-control" id="time">
+                <select class="form-control" id="time_city">
                   <option></option>
                   <option>Morning</option>
                   <option>Afternoon</option>
@@ -273,59 +267,65 @@
 
             <div class="col-lg-4">
               <div class="form-group">
-                <label for="sel1">Select City:</label>
-                <select class="form-control" id="city">
+                <label for="sel1">Select Crime:</label>
+                <select class="form-control" id="offence_city">
                   <option></option>
-                  <option>Aliso Viejo</option>
-                  <option>Anaheim</option>
-                  <option>Brea</option>
-                  <option>Buena Park</option>
-                  <option>Costa Mesa</option>
-                  <option>Cypress</option>
-                  <option>Dana Point</option>
-                  <option>Fountain Valley</option>
-                  <option>Fullerton</option>
-                  <option>Garden Grove</option>
-                  <option>Huntington Beach</option>
-                  <option>Irvine</option>
-                  <option>La Habra</option>
-                  <option>La Palma</option>
-                  <option>Laguna Beach</option>
-                  <option>Laguna Hills</option>
-                  <option>Laguna Niguel</option>
-                  <option>Laguna Woods</option>
-                  <option>Lake Forest</option>
-                  <option>Los Alamitos</option>
-                  <option>Mission Viejo</option>
-                  <option>Newport Beach</option>
-                  <option>Orange</option>
-                  <option>Placentia</option>
-                  <option>Rancho Santa Margarita</option>
-                  <option>San Clemente</option>
-                  <option>San Juan Capistrano</option>
-                  <option>Santa Ana</option>
-                  <option>Seal Beach</option>
-                  <option>Stanton</option>
-                  <option>Tustin</option>
-                  <option>Villa Park</option>
-                  <option>Westminster</option>
-                  <option>Yorba Linda</option>
+                  <option>Murder</option>
+                  <option>Theft</option>
+                  <option>Kidnap</option>
+                  <option>Assault</option>
+                  <option>Shooting</option>
                 </select>
               </div>
             </div>
 
           </div>
           <div class="row">
-            <div class="col-lg-12">
-              <div class="panel panel-danger">
-                <div class="panel-heading">
-                  <h1 id="predicted_crime">Theft</h1>
-                </div>
-              <div class="panel-body">Has the highest chance of occuring for the selected time and place.</div>
+              <div class="col-lg-2">
+                <div class="panel panel-danger">
+                  <div class="panel-heading">
+                    <h1 id="predicted_crime">Theft - Irvine</h1>
+                  </div>
+              </div>
             </div>
           </div>
-        </div>
-        
+          <div class="row">
+              <div class="col-lg-2">
+                <div class="panel panel-danger">
+                  <div class="panel-heading">
+                    <h1 id="predicted_crime">Murder - Irvine</h1>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+              <div class="col-lg-2">
+                <div class="panel panel-danger">
+                  <div class="panel-heading">
+                    <h1 id="predicted_crime">Shooting - Irvine</h1>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+              <div class="col-lg-2">
+                <div class="panel panel-danger">
+                  <div class="panel-heading">
+                    <h1 id="predicted_crime">Assault - Irvine</h1>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+              <div class="col-lg-2">
+                <div class="panel panel-danger">
+                  <div class="panel-heading">
+                    <h1 id="predicted_crime">Kidanp - Irvine</h1>
+                  </div>
+              </div>
+            </div>
+          </div>
+
         </div>
     </section>
 
