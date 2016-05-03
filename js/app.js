@@ -147,7 +147,9 @@ function drawPredictCity() {
     var jsonData = JSON.parse(data);
 
     console.log(jsonData);
-    
+
+    $("#city_predicted").html(jsonData.predictedLabel + " - " + parseFloat(jsonData.predictedScored[jsonData.predictedLabel]).toFixed(2)*100 + "%");
+
     //$("#predicted_crime").text(jsonData.predictedLabel);
 
 
