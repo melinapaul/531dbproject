@@ -1,0 +1,1001 @@
+case_number,gender,day,time_of_day,Offence,City
+5722cc3afc13ae3fa40010ec,Male,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa40010ed,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40010ee,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa40010ef,Female,Sunday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40010f0,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40010f1,Female,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40010f2,Male,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40010f3,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa40010f4,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40010f5,Male,Saturday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa40010f6,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40010f7,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40010f8,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40010f9,Female,Saturday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40010fa,Male,Friday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa40010fb,Female,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40010fc,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40010fd,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40010fe,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40010ff,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001100,Male,Saturday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa4001101,Male,Friday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001102,Male,Friday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001103,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001104,Male,Friday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001105,Male,Sunday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001106,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001107,Male,Sunday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa4001108,Female,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001109,Male,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa400110a,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400110b,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa400110c,Female,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400110d,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa400110e,Female,Friday,Evening,Theft,Placentia
+5722cc3afc13ae3fa400110f,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001110,Male,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001111,Female,Sunday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001112,Male,Saturday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa4001113,Male,Friday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001114,Female,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001115,Male,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001116,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001117,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001118,Male,Sunday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001119,Male,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400111a,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa400111b,Female,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa400111c,Male,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa400111d,Female,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa400111e,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa400111f,Male,Friday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001120,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001121,Female,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001122,Female,Friday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001123,Male,Sunday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001124,Male,Saturday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001125,Female,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001126,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001127,Female,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001128,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001129,Female,Friday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa400112a,Female,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa400112b,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa400112c,Male,Sunday,Evening,Theft,Placentia
+5722cc3afc13ae3fa400112d,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa400112e,Female,Saturday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa400112f,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001130,Female,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001131,Male,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001132,Female,Saturday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001133,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001134,Female,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001135,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001136,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001137,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001138,Male,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa4001139,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400113a,Male,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa400113b,Male,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa400113c,Female,Friday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa400113d,Female,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa400113e,Male,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa400113f,Male,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001140,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001141,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001142,Male,Saturday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa4001143,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001144,Female,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa4001145,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001146,Male,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001147,Female,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001148,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001149,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa400114a,Male,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa400114b,Female,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa400114c,Female,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa400114d,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa400114e,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa400114f,Male,Friday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001150,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001151,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001152,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001153,Female,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001154,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001155,Female,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001156,Male,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001157,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001158,Female,Friday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001159,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa400115a,Female,Friday,Night,Theft,Placentia
+5722cc3afc13ae3fa400115b,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400115c,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa400115d,Female,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa400115e,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400115f,Male,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001160,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001161,Male,Friday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001162,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001163,Female,Saturday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa4001164,Male,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001165,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001166,Female,Friday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001167,Female,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001168,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001169,Female,Friday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa400116a,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa400116b,Female,Sunday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa400116c,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400116d,Male,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400116e,Male,Friday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa400116f,Male,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001170,Male,Saturday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001171,Male,Sunday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001172,Female,Friday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001173,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001174,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001175,Female,Friday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001176,Female,Friday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa4001177,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001178,Female,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001179,Female,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa400117a,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400117b,Female,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa400117c,Male,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400117d,Male,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa400117e,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400117f,Male,Sunday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001180,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001181,Male,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001182,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001183,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001184,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001185,Female,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa4001186,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001187,Female,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001188,Male,Sunday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001189,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400118a,Female,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400118b,Male,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa400118c,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa400118d,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400118e,Female,Friday,Evening,Assault,Placentia
+5722cc3afc13ae3fa400118f,Male,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001190,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001191,Female,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001192,Female,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001193,Female,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001194,Male,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001195,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001196,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001197,Female,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001198,Female,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001199,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa400119a,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa400119b,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400119c,Male,Friday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa400119d,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400119e,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa400119f,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011a0,Female,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011a1,Male,Saturday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa40011a2,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa40011a3,Male,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40011a4,Female,Saturday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa40011a5,Female,Friday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40011a6,Female,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40011a7,Male,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40011a8,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011a9,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011aa,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011ab,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa40011ac,Male,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40011ad,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa40011ae,Male,Friday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa40011af,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011b0,Female,Friday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40011b1,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011b2,Male,Friday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011b3,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011b4,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011b5,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa40011b6,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011b7,Male,Friday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40011b8,Male,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40011b9,Female,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40011ba,Male,Saturday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40011bb,Male,Saturday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40011bc,Female,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa40011bd,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011be,Female,Saturday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40011bf,Male,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011c0,Male,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40011c1,Female,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40011c2,Male,Saturday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa40011c3,Female,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40011c4,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011c5,Male,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40011c6,Male,Friday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40011c7,Male,Saturday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40011c8,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011c9,Male,Friday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40011ca,Female,Sunday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40011cb,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa40011cc,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011cd,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011ce,Male,Sunday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa40011cf,Male,Sunday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa40011d0,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40011d1,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011d2,Female,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40011d3,Female,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa40011d4,Female,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa40011d5,Female,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40011d6,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011d7,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011d8,Female,Saturday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40011d9,Female,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011da,Male,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40011db,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011dc,Male,Saturday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40011dd,Male,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa40011de,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011df,Female,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40011e0,Female,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40011e1,Male,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011e2,Male,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40011e3,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011e4,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa40011e5,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40011e6,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa40011e7,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011e8,Female,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40011e9,Female,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40011ea,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40011eb,Female,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa40011ec,Female,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40011ed,Male,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa40011ee,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011ef,Female,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011f0,Male,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40011f1,Male,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40011f2,Male,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011f3,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa40011f4,Female,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa40011f5,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011f6,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40011f7,Female,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa40011f8,Male,Saturday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40011f9,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40011fa,Female,Friday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40011fb,Female,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40011fc,Male,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40011fd,Male,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40011fe,Male,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa40011ff,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001200,Female,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001201,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001202,Male,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001203,Female,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001204,Male,Friday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001205,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001206,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001207,Male,Friday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001208,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001209,Male,Friday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa400120a,Male,Sunday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa400120b,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400120c,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa400120d,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400120e,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa400120f,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001210,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001211,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001212,Male,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa4001213,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001214,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001215,Male,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001216,Male,Friday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001217,Female,Friday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001218,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001219,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400121a,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400121b,Female,Sunday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa400121c,Female,Saturday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa400121d,Female,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa400121e,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400121f,Female,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001220,Male,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001221,Female,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001222,Male,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa4001223,Female,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001224,Female,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001225,Female,Sunday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001226,Female,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001227,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001228,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001229,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400122a,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa400122b,Female,Sunday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa400122c,Male,Friday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa400122d,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400122e,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa400122f,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001230,Male,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001231,Female,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001232,Female,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001233,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001234,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001235,Male,Saturday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa4001236,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001237,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001238,Male,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001239,Female,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa400123a,Female,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa400123b,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400123c,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa400123d,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400123e,Female,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa400123f,Female,Friday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001240,Male,Saturday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001241,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001242,Male,Friday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa4001243,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001244,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001245,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001246,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001247,Female,Friday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001248,Male,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa4001249,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400124a,Female,Saturday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa400124b,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa400124c,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400124d,Female,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa400124e,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa400124f,Male,Saturday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001250,Male,Friday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa4001251,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001252,Male,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001253,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001254,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001255,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001256,Female,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001257,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001258,Female,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001259,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa400125a,Male,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa400125b,Male,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa400125c,Female,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400125d,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa400125e,Male,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa400125f,Female,Sunday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001260,Male,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001261,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001262,Female,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001263,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001264,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001265,Male,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa4001266,Male,Sunday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa4001267,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001268,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001269,Male,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400126a,Female,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa400126b,Male,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa400126c,Male,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa400126d,Male,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa400126e,Male,Sunday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa400126f,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001270,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001271,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001272,Female,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa4001273,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001274,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001275,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001276,Male,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001277,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3afc13ae3fa4001278,Female,Sunday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001279,Female,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400127a,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa400127b,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa400127c,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa400127d,Female,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa400127e,Male,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa400127f,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa4001280,Female,Sunday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa4001281,Female,Sunday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa4001282,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001283,Female,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa4001284,Male,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa4001285,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001286,Female,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa4001287,Female,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001288,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001289,Female,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa400128a,Female,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa400128b,Female,Saturday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa400128c,Female,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa400128d,Female,Friday,Evening,Theft,Placentia
+5722cc3afc13ae3fa400128e,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa400128f,Female,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa4001290,Male,Friday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001291,Male,Friday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa4001292,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa4001293,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa4001294,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001295,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa4001296,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa4001297,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa4001298,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa4001299,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa400129a,Female,Sunday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa400129b,Female,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa400129c,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa400129d,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa400129e,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa400129f,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa40012a0,Female,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40012a1,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa40012a2,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa40012a3,Male,Friday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40012a4,Female,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa40012a5,Female,Saturday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40012a6,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40012a7,Male,Friday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40012a8,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012a9,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40012aa,Female,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40012ab,Female,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40012ac,Female,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012ad,Female,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40012ae,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012af,Male,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012b0,Male,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa40012b1,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012b2,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40012b3,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012b4,Male,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa40012b5,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40012b6,Female,Friday,Night,Theft,Placentia
+5722cc3afc13ae3fa40012b7,Female,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa40012b8,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012b9,Female,Sunday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40012ba,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012bb,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa40012bc,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40012bd,Female,Saturday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa40012be,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012bf,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012c0,Female,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40012c1,Male,Friday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40012c2,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40012c3,Female,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40012c4,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa40012c5,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012c6,Female,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012c7,Female,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012c8,Female,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012c9,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012ca,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012cb,Female,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012cc,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012cd,Female,Sunday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40012ce,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012cf,Male,Friday,Night,Theft,Placentia
+5722cc3afc13ae3fa40012d0,Female,Sunday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012d1,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012d2,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa40012d3,Male,Saturday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012d4,Male,Saturday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa40012d5,Male,Friday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40012d6,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40012d7,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012d8,Female,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40012d9,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3afc13ae3fa40012da,Male,Saturday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40012db,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40012dc,Male,Sunday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012dd,Male,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012de,Female,Sunday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40012df,Male,Saturday,Evening,Theft,Placentia
+5722cc3afc13ae3fa40012e0,Male,Friday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40012e1,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012e2,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012e3,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3afc13ae3fa40012e4,Male,Friday,Night,Kidnap,Placentia
+5722cc3afc13ae3fa40012e5,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40012e6,Female,Saturday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012e7,Male,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40012e8,Male,Friday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012e9,Female,Saturday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40012ea,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012eb,Female,Sunday,Evening,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012ec,Female,Sunday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa40012ed,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012ee,Male,Friday,Night,Theft,Costa Mesa
+5722cc3afc13ae3fa40012ef,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3afc13ae3fa40012f0,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3afc13ae3fa40012f1,Male,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa40012f2,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa40012f3,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012f4,Female,Sunday,Night,Theft,Placentia
+5722cc3afc13ae3fa40012f5,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012f6,Female,Saturday,Night,Theft,Placentia
+5722cc3afc13ae3fa40012f7,Male,Sunday,Night,Assault,Santa Ana
+5722cc3afc13ae3fa40012f8,Male,Friday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40012f9,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012fa,Male,Saturday,Night,Theft,Santa Ana
+5722cc3afc13ae3fa40012fb,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3afc13ae3fa40012fc,Female,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3afc13ae3fa40012fd,Male,Friday,Evening,Assault,Placentia
+5722cc3afc13ae3fa40012fe,Female,Friday,Night,Assault,Placentia
+5722cc3afc13ae3fa40012ff,Female,Friday,Evening,Kidnap,Placentia
+5722cc3afc13ae3fa4001300,Female,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001301,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001302,Female,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001303,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001304,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001305,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001306,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001307,Female,Saturday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001308,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001309,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400130a,Female,Sunday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400130b,Male,Saturday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa400130c,Female,Saturday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400130d,Female,Sunday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa400130e,Male,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400130f,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001310,Male,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001311,Female,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001312,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001313,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001314,Female,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001315,Male,Friday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001316,Female,Sunday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001317,Male,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001318,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001319,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400131a,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa400131b,Male,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa400131c,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400131d,Female,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400131e,Female,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa400131f,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001320,Male,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001321,Female,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001322,Female,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001323,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001324,Male,Sunday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001325,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001326,Male,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001327,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001328,Male,Saturday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001329,Male,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa400132a,Female,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400132b,Male,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa400132c,Female,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400132d,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa400132e,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400132f,Male,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001330,Female,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001331,Female,Friday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001332,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001333,Male,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001334,Male,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001335,Female,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001336,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001337,Male,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001338,Female,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001339,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa400133a,Male,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400133b,Female,Saturday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa400133c,Female,Sunday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa400133d,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa400133e,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa400133f,Female,Saturday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001340,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001341,Female,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001342,Male,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001343,Female,Friday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001344,Male,Friday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001345,Male,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001346,Female,Saturday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001347,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001348,Male,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001349,Female,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa400134a,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400134b,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa400134c,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa400134d,Female,Saturday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa400134e,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400134f,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001350,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001351,Female,Sunday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001352,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001353,Female,Friday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001354,Male,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001355,Female,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001356,Female,Friday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001357,Male,Friday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001358,Female,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001359,Male,Saturday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400135a,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400135b,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400135c,Male,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400135d,Female,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa400135e,Male,Sunday,Night,Theft,Placentia
+5722cc3bfc13ae3fa400135f,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001360,Male,Sunday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001361,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001362,Male,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001363,Male,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001364,Female,Saturday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001365,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001366,Female,Sunday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001367,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001368,Male,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001369,Female,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa400136a,Female,Saturday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa400136b,Male,Friday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa400136c,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400136d,Male,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400136e,Female,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa400136f,Female,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001370,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001371,Female,Saturday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001372,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001373,Female,Sunday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001374,Female,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001375,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001376,Female,Sunday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001377,Male,Saturday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001378,Male,Saturday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001379,Female,Saturday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400137a,Male,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400137b,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400137c,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa400137d,Female,Sunday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400137e,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400137f,Female,Sunday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001380,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001381,Female,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001382,Female,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001383,Male,Sunday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001384,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001385,Male,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001386,Female,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001387,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001388,Female,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001389,Male,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa400138a,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400138b,Female,Saturday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400138c,Male,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400138d,Male,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400138e,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400138f,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001390,Male,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001391,Female,Sunday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001392,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001393,Female,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001394,Female,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001395,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001396,Female,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001397,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001398,Female,Sunday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001399,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa400139a,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400139b,Male,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa400139c,Male,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400139d,Female,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa400139e,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400139f,Male,Sunday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40013a0,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013a1,Male,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40013a2,Male,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa40013a3,Female,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013a4,Female,Saturday,Night,Theft,Placentia
+5722cc3bfc13ae3fa40013a5,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013a6,Male,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013a7,Female,Friday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013a8,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40013a9,Female,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013aa,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013ab,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013ac,Female,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40013ad,Male,Friday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013ae,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40013af,Female,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40013b0,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013b1,Female,Sunday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40013b2,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013b3,Female,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa40013b4,Female,Saturday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40013b5,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40013b6,Female,Sunday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013b7,Male,Friday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013b8,Female,Friday,Night,Theft,Placentia
+5722cc3bfc13ae3fa40013b9,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013ba,Female,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40013bb,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013bc,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013bd,Male,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa40013be,Female,Saturday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40013bf,Male,Saturday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40013c0,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013c1,Male,Saturday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013c2,Male,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa40013c3,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40013c4,Female,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013c5,Male,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40013c6,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013c7,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40013c8,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013c9,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013ca,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013cb,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013cc,Female,Sunday,Night,Assault,Placentia
+5722cc3bfc13ae3fa40013cd,Male,Friday,Night,Theft,Placentia
+5722cc3bfc13ae3fa40013ce,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013cf,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013d0,Male,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013d1,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013d2,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013d3,Female,Saturday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40013d4,Female,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa40013d5,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013d6,Male,Saturday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa40013d7,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013d8,Female,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013d9,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013da,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013db,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40013dc,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013dd,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013de,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013df,Female,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40013e0,Male,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40013e1,Male,Sunday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40013e2,Male,Saturday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013e3,Male,Sunday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa40013e4,Male,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40013e5,Male,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa40013e6,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013e7,Male,Friday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40013e8,Male,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40013e9,Female,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa40013ea,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013eb,Male,Saturday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa40013ec,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013ed,Female,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40013ee,Male,Friday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013ef,Male,Sunday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa40013f0,Male,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013f1,Male,Saturday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa40013f2,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013f3,Female,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40013f4,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013f5,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40013f6,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013f7,Female,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40013f8,Female,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40013f9,Male,Sunday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013fa,Female,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40013fb,Male,Sunday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40013fc,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40013fd,Female,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa40013fe,Male,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40013ff,Female,Friday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001400,Female,Friday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001401,Male,Sunday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001402,Female,Saturday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001403,Female,Friday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001404,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001405,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001406,Male,Saturday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001407,Female,Saturday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001408,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001409,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa400140a,Female,Sunday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa400140b,Male,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400140c,Female,Sunday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa400140d,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400140e,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400140f,Male,Sunday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001410,Male,Friday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001411,Female,Sunday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001412,Female,Saturday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001413,Male,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001414,Male,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001415,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001416,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001417,Male,Saturday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001418,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001419,Male,Saturday,Night,Theft,Placentia
+5722cc3bfc13ae3fa400141a,Female,Sunday,Night,Theft,Placentia
+5722cc3bfc13ae3fa400141b,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa400141c,Female,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa400141d,Male,Saturday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa400141e,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa400141f,Male,Saturday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001420,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001421,Male,Friday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001422,Female,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001423,Male,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001424,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001425,Male,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001426,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001427,Male,Friday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001428,Female,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001429,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa400142a,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400142b,Female,Friday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400142c,Female,Friday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa400142d,Female,Saturday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa400142e,Female,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400142f,Male,Friday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001430,Male,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001431,Female,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001432,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001433,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001434,Male,Sunday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001435,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001436,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001437,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001438,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001439,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400143a,Male,Friday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa400143b,Female,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400143c,Male,Friday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa400143d,Male,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400143e,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400143f,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001440,Female,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001441,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001442,Male,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001443,Male,Friday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001444,Male,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001445,Female,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001446,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001447,Male,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001448,Female,Saturday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001449,Female,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa400144a,Female,Sunday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa400144b,Male,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa400144c,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400144d,Male,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa400144e,Female,Sunday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400144f,Female,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001450,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001451,Male,Sunday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001452,Female,Sunday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001453,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001454,Male,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001455,Male,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001456,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001457,Female,Sunday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001458,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001459,Female,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400145a,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa400145b,Male,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400145c,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa400145d,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400145e,Female,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400145f,Female,Saturday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001460,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001461,Male,Sunday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001462,Male,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001463,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001464,Female,Sunday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001465,Male,Sunday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001466,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001467,Male,Sunday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001468,Male,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001469,Female,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa400146a,Female,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa400146b,Male,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa400146c,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa400146d,Male,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400146e,Male,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400146f,Male,Friday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001470,Female,Saturday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001471,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001472,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001473,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001474,Female,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001475,Male,Saturday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001476,Female,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa4001477,Female,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa4001478,Male,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001479,Male,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa400147a,Female,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa400147b,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400147c,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400147d,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400147e,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa400147f,Female,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa4001480,Female,Sunday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001481,Male,Saturday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa4001482,Female,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001483,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001484,Female,Friday,Night,Theft,Placentia
+5722cc3bfc13ae3fa4001485,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001486,Female,Sunday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa4001487,Male,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001488,Male,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001489,Female,Friday,Night,Theft,Placentia
+5722cc3bfc13ae3fa400148a,Female,Sunday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa400148b,Female,Saturday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa400148c,Male,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400148d,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa400148e,Male,Saturday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa400148f,Female,Friday,Night,Assault,Placentia
+5722cc3bfc13ae3fa4001490,Female,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa4001491,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa4001492,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001493,Male,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa4001494,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001495,Male,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa4001496,Male,Sunday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa4001497,Female,Saturday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa4001498,Male,Sunday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa4001499,Female,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa400149a,Female,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa400149b,Male,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa400149c,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400149d,Male,Saturday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa400149e,Male,Sunday,Night,Kidnap,Santa Ana
+5722cc3bfc13ae3fa400149f,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40014a0,Female,Friday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa40014a1,Male,Sunday,Night,Assault,Placentia
+5722cc3bfc13ae3fa40014a2,Male,Saturday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa40014a3,Male,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40014a4,Male,Friday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40014a5,Female,Friday,Night,Theft,Costa Mesa
+5722cc3bfc13ae3fa40014a6,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40014a7,Male,Saturday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40014a8,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40014a9,Male,Friday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa40014aa,Female,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40014ab,Female,Friday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40014ac,Male,Saturday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40014ad,Female,Friday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40014ae,Male,Saturday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40014af,Female,Saturday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40014b0,Male,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa40014b1,Female,Saturday,Night,Theft,Placentia
+5722cc3bfc13ae3fa40014b2,Female,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa40014b3,Female,Friday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40014b4,Male,Sunday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40014b5,Male,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40014b6,Female,Friday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40014b7,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40014b8,Male,Sunday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa40014b9,Female,Sunday,Night,Assault,Costa Mesa
+5722cc3bfc13ae3fa40014ba,Male,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40014bb,Male,Sunday,Evening,Assault,Costa Mesa
+5722cc3bfc13ae3fa40014bc,Female,Sunday,Night,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40014bd,Female,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa40014be,Female,Sunday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40014bf,Female,Saturday,Evening,Theft,Costa Mesa
+5722cc3bfc13ae3fa40014c0,Female,Friday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40014c1,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40014c2,Male,Saturday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40014c3,Male,Friday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa40014c4,Female,Saturday,Night,Theft,Placentia
+5722cc3bfc13ae3fa40014c5,Female,Sunday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa40014c6,Female,Saturday,Evening,Theft,Placentia
+5722cc3bfc13ae3fa40014c7,Female,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40014c8,Female,Sunday,Night,Assault,Santa Ana
+5722cc3bfc13ae3fa40014c9,Male,Saturday,Night,Assault,Placentia
+5722cc3bfc13ae3fa40014ca,Male,Friday,Night,Theft,Santa Ana
+5722cc3bfc13ae3fa40014cb,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40014cc,Female,Friday,Night,Kidnap,Placentia
+5722cc3bfc13ae3fa40014cd,Female,Sunday,Evening,Assault,Placentia
+5722cc3bfc13ae3fa40014ce,Female,Friday,Evening,Assault,Santa Ana
+5722cc3bfc13ae3fa40014cf,Male,Sunday,Evening,Theft,Santa Ana
+5722cc3bfc13ae3fa40014d0,Male,Sunday,Evening,Kidnap,Santa Ana
+5722cc3bfc13ae3fa40014d1,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cc3bfc13ae3fa40014d2,Female,Saturday,Evening,Kidnap,Placentia
+5722cc3bfc13ae3fa40014d3,Male,Friday,Evening,Theft,Santa Ana

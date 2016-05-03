@@ -1,0 +1,1001 @@
+case_number,gender,day,time_of_day,Offence,City
+5722cbfefc13ae3fa400091c,Female,Saturday,Evening,Assault,Orange
+5722cbfefc13ae3fa400091d,Female,Saturday,Afternoon,Murder,Los Alamitos
+5722cbfefc13ae3fa400091e,Male,Friday,Night,Murder,Lake Forest
+5722cbfefc13ae3fa400091f,Female,Tuesday,Afternoon,Shooting,Garden Grove
+5722cbfefc13ae3fa4000920,Male,Saturday,Evening,Kidnap,Laguna Niguel
+5722cbfefc13ae3fa4000921,Male,Monday,Evening,Shooting,Westminster
+5722cbfefc13ae3fa4000922,Female,Tuesday,Evening,Assault,Yorba Linda
+5722cbfefc13ae3fa4000923,Female,Saturday,Night,Shooting,Seal Beach
+5722cbfefc13ae3fa4000924,Female,Friday,Afternoon,Assault,Buena Park
+5722cbfefc13ae3fa4000925,Male,Friday,Night,Theft,Fullerton
+5722cbfefc13ae3fa4000926,Female,Monday,Afternoon,Kidnap,Placentia
+5722cbfefc13ae3fa4000927,Male,Wednesday,Night,Assault,Laguna Woods
+5722cbfefc13ae3fa4000928,Male,Sunday,Night,Assault,Placentia
+5722cbfefc13ae3fa4000929,Male,Friday,Night,Shooting,Orange
+5722cbfefc13ae3fa400092a,Male,Tuesday,Evening,Shooting,Westminster
+5722cbfefc13ae3fa400092b,Male,Monday,Afternoon,Theft,Los Alamitos
+5722cbfefc13ae3fa400092c,Male,Wednesday,Evening,Kidnap,Fountain Valley
+5722cbfefc13ae3fa400092d,Female,Sunday,Evening,Assault,Stanton
+5722cbfefc13ae3fa400092e,Male,Saturday,Afternoon,Assault,Huntington Beach
+5722cbfefc13ae3fa400092f,Female,Tuesday,Afternoon,Theft,Villa Park
+5722cbfefc13ae3fa4000930,Male,Monday,Evening,Murder,Placentia
+5722cbfefc13ae3fa4000931,Male,Wednesday,Night,Assault,Costa Mesa
+5722cbfefc13ae3fa4000932,Male,Friday,Afternoon,Murder,Buena Park
+5722cbfefc13ae3fa4000933,Female,Thursday,Night,Assault,Tustin
+5722cbfefc13ae3fa4000934,Female,Wednesday,Evening,Kidnap,Yorba Linda
+5722cbfefc13ae3fa4000935,Male,Tuesday,Afternoon,Theft,Stanton
+5722cbfefc13ae3fa4000936,Male,Thursday,Evening,Murder,Newport Beach
+5722cbfefc13ae3fa4000937,Male,Tuesday,Night,Kidnap,Irvine
+5722cbfefc13ae3fa4000938,Male,Wednesday,Night,Theft,Santa Ana
+5722cbfefc13ae3fa4000939,Male,Monday,Evening,Theft,Orange
+5722cbfefc13ae3fa400093a,Male,Friday,Afternoon,Theft,San Juan Capistrano
+5722cbfefc13ae3fa400093b,Male,Tuesday,Afternoon,Shooting,Fullerton
+5722cbfefc13ae3fa400093c,Female,Tuesday,Night,Assault,Huntington Beach
+5722cbfefc13ae3fa400093d,Male,Saturday,Afternoon,Shooting,Placentia
+5722cbfefc13ae3fa400093e,Male,Monday,Night,Murder,Santa Ana
+5722cbfefc13ae3fa400093f,Male,Sunday,Night,Shooting,San Juan Capistrano
+5722cbfefc13ae3fa4000940,Male,Saturday,Afternoon,Murder,San Clemente
+5722cbfefc13ae3fa4000941,Female,Wednesday,Evening,Theft,Costa Mesa
+5722cbfefc13ae3fa4000942,Male,Sunday,Afternoon,Assault,Laguna Beach
+5722cbfefc13ae3fa4000943,Male,Friday,Afternoon,Assault,Fullerton
+5722cbfefc13ae3fa4000944,Male,Friday,Evening,Murder,Tustin
+5722cbfefc13ae3fa4000945,Male,Tuesday,Evening,Shooting,Cypress
+5722cbfefc13ae3fa4000946,Female,Sunday,Afternoon,Assault,Laguna Hills
+5722cbfefc13ae3fa4000947,Male,Saturday,Evening,Kidnap,Lake Forest
+5722cbfefc13ae3fa4000948,Male,Tuesday,Night,Kidnap,San Clemente
+5722cbfefc13ae3fa4000949,Male,Wednesday,Afternoon,Shooting,Aliso Viejo
+5722cbfefc13ae3fa400094a,Female,Thursday,Afternoon,Murder,Mission Viejo
+5722cbfefc13ae3fa400094b,Female,Friday,Night,Assault,Laguna Beach
+5722cbfefc13ae3fa400094c,Male,Tuesday,Evening,Assault,Fullerton
+5722cbfefc13ae3fa400094d,Male,Saturday,Afternoon,Theft,Seal Beach
+5722cbfefc13ae3fa400094e,Male,Saturday,Night,Theft,Dana Point
+5722cbfefc13ae3fa400094f,Female,Friday,Evening,Murder,Cypress
+5722cbfefc13ae3fa4000950,Male,Monday,Night,Kidnap,Stanton
+5722cbfefc13ae3fa4000951,Female,Friday,Afternoon,Theft,Huntington Beach
+5722cbfefc13ae3fa4000952,Female,Saturday,Afternoon,Theft,Laguna Beach
+5722cbfefc13ae3fa4000953,Female,Tuesday,Evening,Shooting,Aliso Viejo
+5722cbfefc13ae3fa4000954,Male,Sunday,Evening,Assault,San Juan Capistrano
+5722cbfefc13ae3fa4000955,Male,Thursday,Night,Kidnap,Huntington Beach
+5722cbfefc13ae3fa4000956,Male,Saturday,Evening,Murder,Laguna Hills
+5722cbfefc13ae3fa4000957,Female,Saturday,Night,Murder,Garden Grove
+5722cbfefc13ae3fa4000958,Male,Thursday,Afternoon,Shooting,Villa Park
+5722cbfefc13ae3fa4000959,Male,Saturday,Evening,Kidnap,La Palma
+5722cbfefc13ae3fa400095a,Male,Saturday,Afternoon,Kidnap,Dana Point
+5722cbfefc13ae3fa400095b,Female,Thursday,Night,Murder,Placentia
+5722cbfefc13ae3fa400095c,Male,Thursday,Night,Shooting,Fountain Valley
+5722cbfefc13ae3fa400095d,Male,Tuesday,Evening,Kidnap,Brea
+5722cbfefc13ae3fa400095e,Male,Wednesday,Night,Theft,Seal Beach
+5722cbfefc13ae3fa400095f,Female,Saturday,Evening,Kidnap,La Palma
+5722cbfefc13ae3fa4000960,Female,Tuesday,Afternoon,Theft,La Habra
+5722cbfefc13ae3fa4000961,Male,Friday,Night,Shooting,Los Alamitos
+5722cbfefc13ae3fa4000962,Male,Thursday,Afternoon,Murder,Villa Park
+5722cbfefc13ae3fa4000963,Female,Friday,Night,Kidnap,Laguna Beach
+5722cbfefc13ae3fa4000964,Female,Thursday,Night,Assault,Seal Beach
+5722cbfefc13ae3fa4000965,Male,Saturday,Evening,Theft,Santa Ana
+5722cbfefc13ae3fa4000966,Male,Friday,Night,Murder,San Juan Capistrano
+5722cbfefc13ae3fa4000967,Male,Saturday,Night,Shooting,Dana Point
+5722cbfefc13ae3fa4000968,Female,Friday,Night,Theft,Fountain Valley
+5722cbfefc13ae3fa4000969,Female,Thursday,Night,Assault,San Juan Capistrano
+5722cbfefc13ae3fa400096a,Male,Wednesday,Night,Theft,Anaheim
+5722cbfefc13ae3fa400096b,Female,Friday,Evening,Murder,Mission Viejo
+5722cbfefc13ae3fa400096c,Female,Saturday,Afternoon,Assault,Laguna Beach
+5722cbfefc13ae3fa400096d,Male,Saturday,Afternoon,Assault,Laguna Beach
+5722cbfefc13ae3fa400096e,Female,Thursday,Afternoon,Kidnap,Laguna Hills
+5722cbfefc13ae3fa400096f,Female,Saturday,Afternoon,Assault,Rancho Santa Margarita
+5722cbfefc13ae3fa4000970,Female,Thursday,Afternoon,Murder,Aliso Viejo
+5722cbfefc13ae3fa4000971,Female,Friday,Evening,Kidnap,Fullerton
+5722cbfefc13ae3fa4000972,Male,Thursday,Afternoon,Kidnap,Lake Forest
+5722cbfefc13ae3fa4000973,Male,Thursday,Afternoon,Murder,Brea
+5722cbfefc13ae3fa4000974,Female,Tuesday,Afternoon,Kidnap,San Clemente
+5722cbfefc13ae3fa4000975,Female,Sunday,Evening,Assault,Placentia
+5722cbfefc13ae3fa4000976,Male,Tuesday,Afternoon,Murder,Fullerton
+5722cbfefc13ae3fa4000977,Female,Wednesday,Evening,Kidnap,Stanton
+5722cbfefc13ae3fa4000978,Female,Sunday,Afternoon,Murder,Laguna Hills
+5722cbfefc13ae3fa4000979,Male,Friday,Night,Shooting,Anaheim
+5722cbfefc13ae3fa400097a,Female,Tuesday,Evening,Theft,Lake Forest
+5722cbfefc13ae3fa400097b,Male,Wednesday,Night,Theft,Santa Ana
+5722cbfefc13ae3fa400097c,Male,Sunday,Afternoon,Kidnap,Yorba Linda
+5722cbfefc13ae3fa400097d,Male,Saturday,Night,Murder,Lake Forest
+5722cbfefc13ae3fa400097e,Female,Wednesday,Evening,Shooting,Laguna Woods
+5722cbfefc13ae3fa400097f,Male,Tuesday,Evening,Kidnap,Yorba Linda
+5722cbfefc13ae3fa4000980,Male,Tuesday,Evening,Shooting,Placentia
+5722cbfefc13ae3fa4000981,Female,Tuesday,Night,Theft,Tustin
+5722cbfefc13ae3fa4000982,Male,Friday,Afternoon,Kidnap,San Juan Capistrano
+5722cbfefc13ae3fa4000983,Male,Monday,Night,Assault,Stanton
+5722cbfefc13ae3fa4000984,Male,Tuesday,Night,Murder,Cypress
+5722cbfefc13ae3fa4000985,Male,Saturday,Evening,Shooting,Santa Ana
+5722cbfefc13ae3fa4000986,Female,Tuesday,Night,Assault,Westminster
+5722cbfefc13ae3fa4000987,Male,Friday,Night,Kidnap,Mission Viejo
+5722cbfefc13ae3fa4000988,Female,Friday,Evening,Shooting,Laguna Beach
+5722cbfefc13ae3fa4000989,Female,Thursday,Evening,Murder,Aliso Viejo
+5722cbfefc13ae3fa400098a,Male,Saturday,Night,Theft,Placentia
+5722cbfefc13ae3fa400098b,Female,Saturday,Afternoon,Assault,Garden Grove
+5722cbfefc13ae3fa400098c,Male,Sunday,Evening,Theft,Los Alamitos
+5722cbfefc13ae3fa400098d,Female,Sunday,Night,Theft,Laguna Woods
+5722cbfefc13ae3fa400098e,Male,Monday,Afternoon,Assault,Santa Ana
+5722cbfefc13ae3fa400098f,Female,Thursday,Evening,Murder,Newport Beach
+5722cbfefc13ae3fa4000990,Male,Wednesday,Night,Shooting,Lake Forest
+5722cbfefc13ae3fa4000991,Female,Friday,Afternoon,Kidnap,San Juan Capistrano
+5722cbfefc13ae3fa4000992,Male,Monday,Night,Kidnap,Fountain Valley
+5722cbfefc13ae3fa4000993,Male,Wednesday,Afternoon,Murder,Westminster
+5722cbfefc13ae3fa4000994,Female,Thursday,Evening,Assault,Seal Beach
+5722cbfefc13ae3fa4000995,Female,Tuesday,Afternoon,Kidnap,San Juan Capistrano
+5722cbfefc13ae3fa4000996,Male,Saturday,Night,Theft,Brea
+5722cbfefc13ae3fa4000997,Female,Tuesday,Evening,Shooting,Newport Beach
+5722cbfefc13ae3fa4000998,Male,Thursday,Night,Murder,Los Alamitos
+5722cbfefc13ae3fa4000999,Female,Tuesday,Afternoon,Theft,San Clemente
+5722cbfefc13ae3fa400099a,Female,Friday,Evening,Theft,Lake Forest
+5722cbfefc13ae3fa400099b,Male,Friday,Evening,Theft,Dana Point
+5722cbfefc13ae3fa400099c,Female,Sunday,Afternoon,Shooting,Aliso Viejo
+5722cbfefc13ae3fa400099d,Male,Sunday,Afternoon,Shooting,Cypress
+5722cbfefc13ae3fa400099e,Female,Sunday,Night,Assault,Tustin
+5722cbfefc13ae3fa400099f,Male,Saturday,Afternoon,Murder,Garden Grove
+5722cbfefc13ae3fa40009a0,Female,Sunday,Evening,Kidnap,Laguna Woods
+5722cbfefc13ae3fa40009a1,Male,Saturday,Night,Theft,Cypress
+5722cbfefc13ae3fa40009a2,Male,Sunday,Evening,Kidnap,Orange
+5722cbfefc13ae3fa40009a3,Female,Tuesday,Evening,Murder,Brea
+5722cbfefc13ae3fa40009a4,Male,Friday,Evening,Murder,Los Alamitos
+5722cbfefc13ae3fa40009a5,Male,Monday,Night,Murder,Costa Mesa
+5722cbfefc13ae3fa40009a6,Male,Sunday,Evening,Theft,Garden Grove
+5722cbfefc13ae3fa40009a7,Male,Sunday,Evening,Theft,Orange
+5722cbfefc13ae3fa40009a8,Female,Sunday,Afternoon,Assault,Mission Viejo
+5722cbfefc13ae3fa40009a9,Female,Friday,Evening,Theft,Laguna Niguel
+5722cbfefc13ae3fa40009aa,Female,Tuesday,Evening,Kidnap,Cypress
+5722cbfefc13ae3fa40009ab,Female,Friday,Evening,Kidnap,Buena Park
+5722cbfefc13ae3fa40009ac,Male,Saturday,Evening,Kidnap,La Palma
+5722cbfefc13ae3fa40009ad,Male,Monday,Evening,Kidnap,Santa Ana
+5722cbfefc13ae3fa40009ae,Female,Monday,Evening,Theft,Los Alamitos
+5722cbfefc13ae3fa40009af,Male,Wednesday,Afternoon,Assault,Buena Park
+5722cbfefc13ae3fa40009b0,Male,Saturday,Afternoon,Kidnap,Laguna Beach
+5722cbfefc13ae3fa40009b1,Female,Wednesday,Night,Theft,Yorba Linda
+5722cbfefc13ae3fa40009b2,Female,Saturday,Evening,Murder,Westminster
+5722cbfefc13ae3fa40009b3,Female,Thursday,Evening,Assault,Mission Viejo
+5722cbfefc13ae3fa40009b4,Female,Monday,Evening,Assault,Aliso Viejo
+5722cbfefc13ae3fa40009b5,Female,Friday,Night,Assault,Los Alamitos
+5722cbfefc13ae3fa40009b6,Female,Saturday,Afternoon,Assault,Lake Forest
+5722cbfefc13ae3fa40009b7,Male,Tuesday,Evening,Kidnap,San Clemente
+5722cbfefc13ae3fa40009b8,Male,Sunday,Night,Shooting,Costa Mesa
+5722cbfefc13ae3fa40009b9,Female,Saturday,Evening,Theft,Buena Park
+5722cbfefc13ae3fa40009ba,Female,Thursday,Night,Assault,Anaheim
+5722cbfefc13ae3fa40009bb,Female,Sunday,Night,Theft,Dana Point
+5722cbfefc13ae3fa40009bc,Male,Thursday,Evening,Kidnap,Yorba Linda
+5722cbfefc13ae3fa40009bd,Female,Monday,Evening,Kidnap,La Palma
+5722cbfefc13ae3fa40009be,Female,Tuesday,Afternoon,Shooting,Seal Beach
+5722cbfefc13ae3fa40009bf,Female,Tuesday,Afternoon,Shooting,Newport Beach
+5722cbfefc13ae3fa40009c0,Male,Wednesday,Evening,Shooting,Irvine
+5722cbfefc13ae3fa40009c1,Female,Monday,Night,Murder,Los Alamitos
+5722cbfefc13ae3fa40009c2,Female,Wednesday,Afternoon,Kidnap,Garden Grove
+5722cbfefc13ae3fa40009c3,Female,Tuesday,Night,Assault,Fountain Valley
+5722cbfefc13ae3fa40009c4,Male,Wednesday,Night,Kidnap,Garden Grove
+5722cbfefc13ae3fa40009c5,Female,Saturday,Evening,Kidnap,Lake Forest
+5722cbfefc13ae3fa40009c6,Female,Thursday,Evening,Murder,La Habra
+5722cbfefc13ae3fa40009c7,Female,Monday,Evening,Shooting,Anaheim
+5722cbfefc13ae3fa40009c8,Female,Saturday,Afternoon,Kidnap,San Juan Capistrano
+5722cbfefc13ae3fa40009c9,Male,Monday,Afternoon,Shooting,Tustin
+5722cbfefc13ae3fa40009ca,Female,Thursday,Night,Shooting,Placentia
+5722cbfefc13ae3fa40009cb,Female,Saturday,Afternoon,Kidnap,Mission Viejo
+5722cbfefc13ae3fa40009cc,Male,Thursday,Evening,Theft,Laguna Beach
+5722cbfefc13ae3fa40009cd,Female,Tuesday,Night,Murder,Mission Viejo
+5722cbfefc13ae3fa40009ce,Female,Sunday,Evening,Murder,Stanton
+5722cbfefc13ae3fa40009cf,Female,Wednesday,Evening,Murder,Westminster
+5722cbfefc13ae3fa40009d0,Female,Saturday,Night,Assault,Newport Beach
+5722cbfefc13ae3fa40009d1,Male,Tuesday,Night,Murder,Mission Viejo
+5722cbfefc13ae3fa40009d2,Female,Friday,Afternoon,Shooting,Buena Park
+5722cbfefc13ae3fa40009d3,Male,Sunday,Evening,Kidnap,Tustin
+5722cbfefc13ae3fa40009d4,Male,Thursday,Afternoon,Theft,San Clemente
+5722cbfefc13ae3fa40009d5,Female,Saturday,Night,Shooting,Rancho Santa Margarita
+5722cbfefc13ae3fa40009d6,Female,Friday,Evening,Assault,Costa Mesa
+5722cbfefc13ae3fa40009d7,Female,Saturday,Afternoon,Theft,Cypress
+5722cbfefc13ae3fa40009d8,Male,Thursday,Night,Shooting,San Juan Capistrano
+5722cbfefc13ae3fa40009d9,Male,Tuesday,Evening,Assault,Yorba Linda
+5722cbfefc13ae3fa40009da,Male,Monday,Night,Murder,Laguna Niguel
+5722cbfefc13ae3fa40009db,Female,Tuesday,Afternoon,Assault,Laguna Niguel
+5722cbfefc13ae3fa40009dc,Male,Friday,Afternoon,Theft,Los Alamitos
+5722cbfefc13ae3fa40009dd,Male,Sunday,Afternoon,Theft,Mission Viejo
+5722cbfefc13ae3fa40009de,Female,Tuesday,Afternoon,Murder,Huntington Beach
+5722cbfefc13ae3fa40009df,Male,Monday,Afternoon,Kidnap,Laguna Beach
+5722cbfefc13ae3fa40009e0,Female,Saturday,Afternoon,Shooting,Westminster
+5722cbfefc13ae3fa40009e1,Female,Monday,Evening,Theft,Santa Ana
+5722cbfefc13ae3fa40009e2,Male,Monday,Night,Murder,Fullerton
+5722cbfefc13ae3fa40009e3,Female,Tuesday,Afternoon,Kidnap,La Habra
+5722cbfefc13ae3fa40009e4,Male,Sunday,Afternoon,Shooting,Orange
+5722cbfefc13ae3fa40009e5,Male,Monday,Evening,Assault,La Habra
+5722cbfefc13ae3fa40009e6,Male,Friday,Evening,Theft,Lake Forest
+5722cbfefc13ae3fa40009e7,Female,Tuesday,Evening,Murder,Irvine
+5722cbfefc13ae3fa40009e8,Female,Wednesday,Evening,Theft,Mission Viejo
+5722cbfefc13ae3fa40009e9,Female,Monday,Night,Theft,Tustin
+5722cbfefc13ae3fa40009ea,Female,Monday,Night,Kidnap,Laguna Niguel
+5722cbfefc13ae3fa40009eb,Female,Sunday,Night,Kidnap,Laguna Niguel
+5722cbfefc13ae3fa40009ec,Male,Wednesday,Afternoon,Theft,La Habra
+5722cbfefc13ae3fa40009ed,Male,Friday,Night,Theft,Fountain Valley
+5722cbfefc13ae3fa40009ee,Male,Monday,Evening,Kidnap,Buena Park
+5722cbfefc13ae3fa40009ef,Male,Sunday,Evening,Shooting,Tustin
+5722cbfefc13ae3fa40009f0,Female,Saturday,Evening,Assault,Newport Beach
+5722cbfefc13ae3fa40009f1,Male,Friday,Afternoon,Murder,Laguna Hills
+5722cbfefc13ae3fa40009f2,Male,Monday,Afternoon,Assault,Fullerton
+5722cbfefc13ae3fa40009f3,Female,Friday,Evening,Theft,Garden Grove
+5722cbfefc13ae3fa40009f4,Female,Thursday,Afternoon,Murder,Laguna Hills
+5722cbfefc13ae3fa40009f5,Female,Thursday,Night,Theft,Fountain Valley
+5722cbfefc13ae3fa40009f6,Female,Sunday,Evening,Kidnap,Stanton
+5722cbfefc13ae3fa40009f7,Male,Wednesday,Evening,Theft,Anaheim
+5722cbfefc13ae3fa40009f8,Female,Wednesday,Night,Theft,Fullerton
+5722cbfefc13ae3fa40009f9,Male,Friday,Night,Theft,Westminster
+5722cbfefc13ae3fa40009fa,Female,Sunday,Night,Assault,Laguna Beach
+5722cbfefc13ae3fa40009fb,Female,Thursday,Afternoon,Theft,Garden Grove
+5722cbfefc13ae3fa40009fc,Female,Tuesday,Afternoon,Assault,Buena Park
+5722cbfefc13ae3fa40009fd,Male,Sunday,Evening,Kidnap,Seal Beach
+5722cbfefc13ae3fa40009fe,Female,Wednesday,Night,Assault,Rancho Santa Margarita
+5722cbfefc13ae3fa40009ff,Male,Tuesday,Night,Shooting,Aliso Viejo
+5722cbfefc13ae3fa4000a00,Male,Friday,Night,Kidnap,Tustin
+5722cbfefc13ae3fa4000a01,Male,Monday,Afternoon,Kidnap,Buena Park
+5722cbfefc13ae3fa4000a02,Female,Sunday,Evening,Theft,Anaheim
+5722cbfefc13ae3fa4000a03,Male,Tuesday,Afternoon,Assault,Dana Point
+5722cbfefc13ae3fa4000a04,Female,Thursday,Afternoon,Assault,Anaheim
+5722cbfefc13ae3fa4000a05,Male,Sunday,Afternoon,Theft,Newport Beach
+5722cbfefc13ae3fa4000a06,Male,Friday,Afternoon,Assault,Dana Point
+5722cbfefc13ae3fa4000a07,Male,Saturday,Night,Murder,Laguna Beach
+5722cbfefc13ae3fa4000a08,Male,Tuesday,Afternoon,Theft,Lake Forest
+5722cbfefc13ae3fa4000a09,Male,Wednesday,Afternoon,Shooting,Laguna Woods
+5722cbfefc13ae3fa4000a0a,Female,Saturday,Evening,Kidnap,Westminster
+5722cbfefc13ae3fa4000a0b,Female,Saturday,Afternoon,Shooting,Fullerton
+5722cbfefc13ae3fa4000a0c,Male,Friday,Night,Assault,Seal Beach
+5722cbfefc13ae3fa4000a0d,Male,Tuesday,Night,Theft,La Habra
+5722cbfefc13ae3fa4000a0e,Female,Tuesday,Evening,Murder,Brea
+5722cbfefc13ae3fa4000a0f,Female,Friday,Night,Kidnap,Rancho Santa Margarita
+5722cbfefc13ae3fa4000a10,Male,Wednesday,Afternoon,Murder,Huntington Beach
+5722cbfefc13ae3fa4000a11,Female,Tuesday,Afternoon,Shooting,Yorba Linda
+5722cbfefc13ae3fa4000a12,Female,Saturday,Evening,Kidnap,Stanton
+5722cbfefc13ae3fa4000a13,Male,Saturday,Afternoon,Murder,Cypress
+5722cbfefc13ae3fa4000a14,Female,Saturday,Night,Theft,Costa Mesa
+5722cbfefc13ae3fa4000a15,Female,Tuesday,Night,Shooting,San Clemente
+5722cbfefc13ae3fa4000a16,Male,Thursday,Afternoon,Assault,Fullerton
+5722cbfefc13ae3fa4000a17,Female,Saturday,Night,Assault,Placentia
+5722cbfefc13ae3fa4000a18,Female,Sunday,Evening,Assault,Anaheim
+5722cbfefc13ae3fa4000a19,Male,Friday,Afternoon,Kidnap,Mission Viejo
+5722cbfefc13ae3fa4000a1a,Male,Tuesday,Evening,Murder,Laguna Woods
+5722cbfefc13ae3fa4000a1b,Female,Tuesday,Afternoon,Theft,San Juan Capistrano
+5722cbfefc13ae3fa4000a1c,Male,Monday,Night,Murder,Newport Beach
+5722cbfefc13ae3fa4000a1d,Male,Thursday,Night,Murder,Westminster
+5722cbfefc13ae3fa4000a1e,Female,Thursday,Night,Kidnap,Lake Forest
+5722cbfefc13ae3fa4000a1f,Female,Wednesday,Evening,Assault,Los Alamitos
+5722cbfefc13ae3fa4000a20,Female,Thursday,Night,Kidnap,Tustin
+5722cbfefc13ae3fa4000a21,Female,Thursday,Evening,Murder,Cypress
+5722cbfefc13ae3fa4000a22,Male,Friday,Afternoon,Kidnap,Placentia
+5722cbfefc13ae3fa4000a23,Female,Friday,Afternoon,Murder,Yorba Linda
+5722cbfefc13ae3fa4000a24,Male,Saturday,Night,Shooting,Rancho Santa Margarita
+5722cbfefc13ae3fa4000a25,Male,Friday,Afternoon,Assault,Lake Forest
+5722cbfefc13ae3fa4000a26,Male,Tuesday,Afternoon,Murder,La Palma
+5722cbfefc13ae3fa4000a27,Female,Wednesday,Night,Shooting,Dana Point
+5722cbfefc13ae3fa4000a28,Female,Tuesday,Afternoon,Shooting,Los Alamitos
+5722cbfefc13ae3fa4000a29,Female,Saturday,Evening,Shooting,Westminster
+5722cbfefc13ae3fa4000a2a,Male,Tuesday,Night,Kidnap,Yorba Linda
+5722cbfefc13ae3fa4000a2b,Female,Thursday,Afternoon,Kidnap,La Habra
+5722cbfefc13ae3fa4000a2c,Female,Wednesday,Night,Assault,Garden Grove
+5722cbfefc13ae3fa4000a2d,Male,Wednesday,Night,Shooting,Laguna Hills
+5722cbfefc13ae3fa4000a2e,Female,Thursday,Evening,Kidnap,Anaheim
+5722cbfefc13ae3fa4000a2f,Female,Wednesday,Night,Murder,Huntington Beach
+5722cbfefc13ae3fa4000a30,Male,Tuesday,Evening,Theft,San Juan Capistrano
+5722cbfefc13ae3fa4000a31,Male,Monday,Evening,Assault,Placentia
+5722cbfefc13ae3fa4000a32,Male,Friday,Night,Kidnap,Westminster
+5722cbfefc13ae3fa4000a33,Female,Sunday,Night,Assault,Anaheim
+5722cbfefc13ae3fa4000a34,Female,Sunday,Afternoon,Assault,La Habra
+5722cbfefc13ae3fa4000a35,Female,Friday,Evening,Shooting,Villa Park
+5722cbfefc13ae3fa4000a36,Female,Saturday,Afternoon,Murder,Cypress
+5722cbfefc13ae3fa4000a37,Male,Tuesday,Evening,Shooting,Yorba Linda
+5722cbfefc13ae3fa4000a38,Male,Sunday,Night,Murder,Placentia
+5722cbfefc13ae3fa4000a39,Female,Monday,Night,Theft,La Palma
+5722cbfefc13ae3fa4000a3a,Male,Thursday,Evening,Murder,Laguna Hills
+5722cbfefc13ae3fa4000a3b,Female,Saturday,Evening,Assault,Santa Ana
+5722cbfefc13ae3fa4000a3c,Female,Monday,Afternoon,Theft,San Clemente
+5722cbfefc13ae3fa4000a3d,Male,Monday,Evening,Assault,Newport Beach
+5722cbfefc13ae3fa4000a3e,Female,Thursday,Evening,Assault,Anaheim
+5722cbfefc13ae3fa4000a3f,Female,Wednesday,Evening,Assault,Tustin
+5722cbfefc13ae3fa4000a40,Female,Saturday,Afternoon,Shooting,Brea
+5722cbfefc13ae3fa4000a41,Male,Thursday,Night,Shooting,Laguna Beach
+5722cbfefc13ae3fa4000a42,Male,Monday,Night,Theft,Rancho Santa Margarita
+5722cbfefc13ae3fa4000a43,Male,Thursday,Evening,Kidnap,Buena Park
+5722cbfefc13ae3fa4000a44,Male,Friday,Night,Theft,La Palma
+5722cbfefc13ae3fa4000a45,Female,Saturday,Night,Murder,Lake Forest
+5722cbfefc13ae3fa4000a46,Male,Sunday,Afternoon,Assault,Fountain Valley
+5722cbfefc13ae3fa4000a47,Female,Friday,Afternoon,Shooting,Orange
+5722cbfefc13ae3fa4000a48,Male,Friday,Evening,Theft,Santa Ana
+5722cbfefc13ae3fa4000a49,Female,Tuesday,Night,Theft,Dana Point
+5722cbfefc13ae3fa4000a4a,Male,Tuesday,Afternoon,Kidnap,Rancho Santa Margarita
+5722cbfefc13ae3fa4000a4b,Male,Wednesday,Night,Theft,Los Alamitos
+5722cbfefc13ae3fa4000a4c,Female,Saturday,Afternoon,Kidnap,Villa Park
+5722cbfefc13ae3fa4000a4d,Male,Friday,Afternoon,Kidnap,Los Alamitos
+5722cbfefc13ae3fa4000a4e,Male,Monday,Night,Assault,Laguna Beach
+5722cbfefc13ae3fa4000a4f,Female,Monday,Afternoon,Assault,Anaheim
+5722cbfefc13ae3fa4000a50,Male,Wednesday,Evening,Murder,San Clemente
+5722cbfefc13ae3fa4000a51,Male,Thursday,Evening,Kidnap,San Clemente
+5722cbfefc13ae3fa4000a52,Male,Friday,Night,Shooting,Stanton
+5722cbfefc13ae3fa4000a53,Female,Saturday,Afternoon,Theft,Fountain Valley
+5722cbfefc13ae3fa4000a54,Male,Wednesday,Evening,Kidnap,Costa Mesa
+5722cbfefc13ae3fa4000a55,Male,Sunday,Night,Murder,San Juan Capistrano
+5722cbfefc13ae3fa4000a56,Male,Saturday,Afternoon,Murder,Rancho Santa Margarita
+5722cbfefc13ae3fa4000a57,Male,Wednesday,Afternoon,Theft,Orange
+5722cbfefc13ae3fa4000a58,Male,Saturday,Afternoon,Kidnap,Tustin
+5722cbfefc13ae3fa4000a59,Female,Friday,Evening,Theft,Placentia
+5722cbfefc13ae3fa4000a5a,Female,Sunday,Evening,Murder,La Habra
+5722cbfefc13ae3fa4000a5b,Female,Thursday,Evening,Assault,Fountain Valley
+5722cbfefc13ae3fa4000a5c,Female,Friday,Night,Kidnap,Cypress
+5722cbfefc13ae3fa4000a5d,Male,Friday,Evening,Theft,Stanton
+5722cbfefc13ae3fa4000a5e,Male,Saturday,Evening,Assault,Rancho Santa Margarita
+5722cbfefc13ae3fa4000a5f,Female,Friday,Afternoon,Shooting,Yorba Linda
+5722cbfefc13ae3fa4000a60,Female,Friday,Evening,Murder,Anaheim
+5722cbfefc13ae3fa4000a61,Male,Monday,Afternoon,Murder,Rancho Santa Margarita
+5722cbfefc13ae3fa4000a62,Female,Tuesday,Night,Assault,Placentia
+5722cbfefc13ae3fa4000a63,Female,Thursday,Evening,Assault,Westminster
+5722cbfefc13ae3fa4000a64,Female,Tuesday,Afternoon,Shooting,Irvine
+5722cbfefc13ae3fa4000a65,Female,Monday,Night,Shooting,Buena Park
+5722cbfefc13ae3fa4000a66,Male,Friday,Afternoon,Theft,Seal Beach
+5722cbfefc13ae3fa4000a67,Male,Sunday,Afternoon,Kidnap,Brea
+5722cbfefc13ae3fa4000a68,Female,Friday,Night,Theft,Aliso Viejo
+5722cbfefc13ae3fa4000a69,Male,Thursday,Evening,Theft,Fullerton
+5722cbfefc13ae3fa4000a6a,Female,Thursday,Night,Assault,Newport Beach
+5722cbfefc13ae3fa4000a6b,Female,Friday,Evening,Assault,Orange
+5722cbfefc13ae3fa4000a6c,Male,Friday,Afternoon,Assault,Stanton
+5722cbfffc13ae3fa4000a6d,Male,Saturday,Afternoon,Theft,San Juan Capistrano
+5722cbfffc13ae3fa4000a6e,Female,Saturday,Night,Murder,Villa Park
+5722cbfffc13ae3fa4000a6f,Male,Sunday,Evening,Murder,Rancho Santa Margarita
+5722cbfffc13ae3fa4000a70,Male,Sunday,Night,Theft,Santa Ana
+5722cbfffc13ae3fa4000a71,Male,Monday,Evening,Shooting,Costa Mesa
+5722cbfffc13ae3fa4000a72,Female,Thursday,Afternoon,Kidnap,Aliso Viejo
+5722cbfffc13ae3fa4000a73,Female,Saturday,Night,Kidnap,Buena Park
+5722cbfffc13ae3fa4000a74,Male,Saturday,Night,Kidnap,Santa Ana
+5722cbfffc13ae3fa4000a75,Female,Thursday,Evening,Assault,Huntington Beach
+5722cbfffc13ae3fa4000a76,Female,Monday,Afternoon,Murder,Laguna Hills
+5722cbfffc13ae3fa4000a77,Male,Thursday,Night,Assault,Laguna Woods
+5722cbfffc13ae3fa4000a78,Male,Friday,Evening,Murder,Newport Beach
+5722cbfffc13ae3fa4000a79,Female,Friday,Evening,Theft,Irvine
+5722cbfffc13ae3fa4000a7a,Female,Saturday,Night,Kidnap,San Clemente
+5722cbfffc13ae3fa4000a7b,Female,Wednesday,Night,Assault,Newport Beach
+5722cbfffc13ae3fa4000a7c,Male,Saturday,Night,Murder,Buena Park
+5722cbfffc13ae3fa4000a7d,Female,Wednesday,Night,Theft,Laguna Beach
+5722cbfffc13ae3fa4000a7e,Female,Wednesday,Night,Shooting,Rancho Santa Margarita
+5722cbfffc13ae3fa4000a7f,Female,Sunday,Evening,Theft,La Habra
+5722cbfffc13ae3fa4000a80,Female,Monday,Night,Murder,La Habra
+5722cbfffc13ae3fa4000a81,Male,Saturday,Night,Murder,Lake Forest
+5722cbfffc13ae3fa4000a82,Male,Thursday,Night,Shooting,Laguna Niguel
+5722cbfffc13ae3fa4000a83,Male,Thursday,Night,Murder,Cypress
+5722cbfffc13ae3fa4000a84,Male,Sunday,Afternoon,Murder,Seal Beach
+5722cbfffc13ae3fa4000a85,Female,Wednesday,Night,Assault,Los Alamitos
+5722cbfffc13ae3fa4000a86,Male,Wednesday,Evening,Kidnap,Westminster
+5722cbfffc13ae3fa4000a87,Male,Sunday,Evening,Theft,Laguna Woods
+5722cbfffc13ae3fa4000a88,Male,Thursday,Afternoon,Theft,Laguna Woods
+5722cbfffc13ae3fa4000a89,Female,Wednesday,Evening,Theft,Laguna Woods
+5722cbfffc13ae3fa4000a8a,Male,Wednesday,Evening,Assault,San Clemente
+5722cbfffc13ae3fa4000a8b,Male,Sunday,Afternoon,Murder,Los Alamitos
+5722cbfffc13ae3fa4000a8c,Female,Saturday,Evening,Murder,Brea
+5722cbfffc13ae3fa4000a8d,Male,Friday,Evening,Kidnap,Fullerton
+5722cbfffc13ae3fa4000a8e,Female,Wednesday,Night,Assault,Aliso Viejo
+5722cbfffc13ae3fa4000a8f,Female,Thursday,Afternoon,Theft,Fountain Valley
+5722cbfffc13ae3fa4000a90,Male,Thursday,Evening,Shooting,Dana Point
+5722cbfffc13ae3fa4000a91,Female,Monday,Evening,Assault,Garden Grove
+5722cbfffc13ae3fa4000a92,Female,Friday,Night,Theft,Fullerton
+5722cbfffc13ae3fa4000a93,Male,Sunday,Night,Theft,Santa Ana
+5722cbfffc13ae3fa4000a94,Male,Sunday,Night,Assault,La Habra
+5722cbfffc13ae3fa4000a95,Male,Monday,Afternoon,Theft,San Clemente
+5722cbfffc13ae3fa4000a96,Female,Friday,Afternoon,Shooting,Laguna Woods
+5722cbfffc13ae3fa4000a97,Male,Thursday,Afternoon,Kidnap,Stanton
+5722cbfffc13ae3fa4000a98,Male,Sunday,Evening,Assault,Laguna Hills
+5722cbfffc13ae3fa4000a99,Female,Friday,Night,Kidnap,Seal Beach
+5722cbfffc13ae3fa4000a9a,Female,Friday,Evening,Shooting,Seal Beach
+5722cbfffc13ae3fa4000a9b,Male,Thursday,Night,Assault,Laguna Woods
+5722cbfffc13ae3fa4000a9c,Male,Tuesday,Night,Kidnap,Placentia
+5722cbfffc13ae3fa4000a9d,Female,Saturday,Evening,Theft,Fountain Valley
+5722cbfffc13ae3fa4000a9e,Male,Thursday,Evening,Assault,Seal Beach
+5722cbfffc13ae3fa4000a9f,Female,Saturday,Night,Theft,Cypress
+5722cbfffc13ae3fa4000aa0,Male,Saturday,Afternoon,Kidnap,Anaheim
+5722cbfffc13ae3fa4000aa1,Male,Wednesday,Afternoon,Theft,La Palma
+5722cbfffc13ae3fa4000aa2,Female,Saturday,Afternoon,Murder,Placentia
+5722cbfffc13ae3fa4000aa3,Male,Saturday,Afternoon,Theft,Huntington Beach
+5722cbfffc13ae3fa4000aa4,Female,Wednesday,Afternoon,Murder,Buena Park
+5722cbfffc13ae3fa4000aa5,Female,Monday,Evening,Murder,Laguna Niguel
+5722cbfffc13ae3fa4000aa6,Female,Wednesday,Evening,Theft,Laguna Woods
+5722cbfffc13ae3fa4000aa7,Female,Wednesday,Evening,Theft,San Clemente
+5722cbfffc13ae3fa4000aa8,Male,Wednesday,Evening,Shooting,Placentia
+5722cbfffc13ae3fa4000aa9,Male,Thursday,Evening,Murder,Costa Mesa
+5722cbfffc13ae3fa4000aaa,Female,Friday,Afternoon,Kidnap,Costa Mesa
+5722cbfffc13ae3fa4000aab,Male,Tuesday,Night,Kidnap,Huntington Beach
+5722cbfffc13ae3fa4000aac,Male,Monday,Night,Assault,Laguna Woods
+5722cbfffc13ae3fa4000aad,Male,Sunday,Evening,Theft,Villa Park
+5722cbfffc13ae3fa4000aae,Male,Tuesday,Afternoon,Shooting,Rancho Santa Margarita
+5722cbfffc13ae3fa4000aaf,Male,Tuesday,Night,Theft,Seal Beach
+5722cbfffc13ae3fa4000ab0,Female,Saturday,Evening,Kidnap,Rancho Santa Margarita
+5722cbfffc13ae3fa4000ab1,Female,Tuesday,Night,Theft,Santa Ana
+5722cbfffc13ae3fa4000ab2,Female,Monday,Night,Assault,Westminster
+5722cbfffc13ae3fa4000ab3,Female,Friday,Afternoon,Shooting,Stanton
+5722cbfffc13ae3fa4000ab4,Male,Saturday,Evening,Kidnap,San Clemente
+5722cbfffc13ae3fa4000ab5,Male,Saturday,Evening,Murder,Seal Beach
+5722cbfffc13ae3fa4000ab6,Male,Tuesday,Afternoon,Shooting,La Habra
+5722cbfffc13ae3fa4000ab7,Female,Tuesday,Evening,Shooting,Aliso Viejo
+5722cbfffc13ae3fa4000ab8,Male,Monday,Night,Murder,Anaheim
+5722cbfffc13ae3fa4000ab9,Female,Monday,Night,Shooting,Dana Point
+5722cbfffc13ae3fa4000aba,Female,Friday,Night,Shooting,Brea
+5722cbfffc13ae3fa4000abb,Female,Monday,Night,Assault,Placentia
+5722cbfffc13ae3fa4000abc,Male,Tuesday,Afternoon,Shooting,Los Alamitos
+5722cbfffc13ae3fa4000abd,Female,Saturday,Night,Murder,Aliso Viejo
+5722cbfffc13ae3fa4000abe,Male,Tuesday,Afternoon,Murder,Lake Forest
+5722cbfffc13ae3fa4000abf,Female,Monday,Night,Theft,Irvine
+5722cbfffc13ae3fa4000ac0,Male,Friday,Evening,Assault,Anaheim
+5722cbfffc13ae3fa4000ac1,Female,Saturday,Night,Theft,Santa Ana
+5722cbfffc13ae3fa4000ac2,Male,Sunday,Night,Murder,Fullerton
+5722cbfffc13ae3fa4000ac3,Female,Sunday,Night,Assault,Irvine
+5722cbfffc13ae3fa4000ac4,Female,Sunday,Evening,Kidnap,Los Alamitos
+5722cbfffc13ae3fa4000ac5,Female,Friday,Afternoon,Shooting,Laguna Beach
+5722cbfffc13ae3fa4000ac6,Female,Sunday,Night,Theft,Aliso Viejo
+5722cbfffc13ae3fa4000ac7,Male,Saturday,Night,Assault,Dana Point
+5722cbfffc13ae3fa4000ac8,Male,Saturday,Afternoon,Theft,Tustin
+5722cbfffc13ae3fa4000ac9,Male,Tuesday,Afternoon,Murder,Lake Forest
+5722cbfffc13ae3fa4000aca,Male,Friday,Evening,Shooting,San Juan Capistrano
+5722cbfffc13ae3fa4000acb,Female,Saturday,Afternoon,Theft,Yorba Linda
+5722cbfffc13ae3fa4000acc,Male,Monday,Afternoon,Shooting,Santa Ana
+5722cbfffc13ae3fa4000acd,Female,Wednesday,Afternoon,Kidnap,Aliso Viejo
+5722cbfffc13ae3fa4000ace,Male,Sunday,Night,Assault,San Clemente
+5722cbfffc13ae3fa4000acf,Female,Friday,Night,Shooting,Rancho Santa Margarita
+5722cbfffc13ae3fa4000ad0,Male,Tuesday,Night,Theft,Yorba Linda
+5722cbfffc13ae3fa4000ad1,Female,Wednesday,Evening,Theft,La Palma
+5722cbfffc13ae3fa4000ad2,Male,Friday,Night,Shooting,Rancho Santa Margarita
+5722cbfffc13ae3fa4000ad3,Female,Monday,Afternoon,Kidnap,Placentia
+5722cbfffc13ae3fa4000ad4,Female,Monday,Night,Shooting,Huntington Beach
+5722cbfffc13ae3fa4000ad5,Female,Wednesday,Night,Assault,Irvine
+5722cbfffc13ae3fa4000ad6,Female,Friday,Evening,Shooting,Irvine
+5722cbfffc13ae3fa4000ad7,Female,Tuesday,Afternoon,Kidnap,Costa Mesa
+5722cbfffc13ae3fa4000ad8,Male,Saturday,Evening,Shooting,Huntington Beach
+5722cbfffc13ae3fa4000ad9,Female,Tuesday,Evening,Theft,Stanton
+5722cbfffc13ae3fa4000ada,Female,Thursday,Night,Murder,Los Alamitos
+5722cbfffc13ae3fa4000adb,Female,Tuesday,Evening,Kidnap,Lake Forest
+5722cbfffc13ae3fa4000adc,Male,Saturday,Night,Murder,Huntington Beach
+5722cbfffc13ae3fa4000add,Female,Thursday,Night,Shooting,Stanton
+5722cbfffc13ae3fa4000ade,Male,Monday,Evening,Assault,La Palma
+5722cbfffc13ae3fa4000adf,Male,Wednesday,Evening,Shooting,Laguna Niguel
+5722cbfffc13ae3fa4000ae0,Female,Thursday,Night,Shooting,Aliso Viejo
+5722cbfffc13ae3fa4000ae1,Female,Sunday,Afternoon,Theft,Rancho Santa Margarita
+5722cbfffc13ae3fa4000ae2,Female,Thursday,Evening,Theft,Laguna Niguel
+5722cbfffc13ae3fa4000ae3,Female,Wednesday,Evening,Murder,Seal Beach
+5722cbfffc13ae3fa4000ae4,Female,Saturday,Evening,Shooting,Lake Forest
+5722cbfffc13ae3fa4000ae5,Male,Saturday,Afternoon,Assault,Fountain Valley
+5722cbfffc13ae3fa4000ae6,Female,Tuesday,Night,Murder,Westminster
+5722cbfffc13ae3fa4000ae7,Female,Tuesday,Evening,Kidnap,Aliso Viejo
+5722cbfffc13ae3fa4000ae8,Male,Sunday,Night,Shooting,Tustin
+5722cbfffc13ae3fa4000ae9,Female,Sunday,Evening,Kidnap,Garden Grove
+5722cbfffc13ae3fa4000aea,Female,Wednesday,Evening,Kidnap,Irvine
+5722cbfffc13ae3fa4000aeb,Female,Saturday,Evening,Shooting,Garden Grove
+5722cbfffc13ae3fa4000aec,Female,Monday,Evening,Kidnap,Cypress
+5722cbfffc13ae3fa4000aed,Male,Monday,Evening,Shooting,La Palma
+5722cbfffc13ae3fa4000aee,Male,Friday,Evening,Assault,Dana Point
+5722cbfffc13ae3fa4000aef,Male,Wednesday,Afternoon,Shooting,Villa Park
+5722cbfffc13ae3fa4000af0,Male,Sunday,Afternoon,Murder,Lake Forest
+5722cbfffc13ae3fa4000af1,Male,Thursday,Night,Kidnap,Anaheim
+5722cbfffc13ae3fa4000af2,Male,Saturday,Afternoon,Murder,Huntington Beach
+5722cbfffc13ae3fa4000af3,Male,Wednesday,Night,Shooting,Laguna Niguel
+5722cbfffc13ae3fa4000af4,Female,Monday,Afternoon,Assault,Seal Beach
+5722cbfffc13ae3fa4000af5,Male,Saturday,Evening,Theft,Tustin
+5722cbfffc13ae3fa4000af6,Female,Saturday,Evening,Kidnap,Westminster
+5722cbfffc13ae3fa4000af7,Male,Monday,Evening,Theft,Newport Beach
+5722cbfffc13ae3fa4000af8,Male,Wednesday,Night,Murder,Tustin
+5722cbfffc13ae3fa4000af9,Female,Saturday,Afternoon,Murder,Fountain Valley
+5722cbfffc13ae3fa4000afa,Male,Sunday,Afternoon,Murder,Dana Point
+5722cbfffc13ae3fa4000afb,Male,Saturday,Afternoon,Murder,Laguna Beach
+5722cbfffc13ae3fa4000afc,Female,Saturday,Evening,Shooting,Costa Mesa
+5722cbfffc13ae3fa4000afd,Male,Wednesday,Night,Shooting,Seal Beach
+5722cbfffc13ae3fa4000afe,Female,Saturday,Night,Theft,San Clemente
+5722cbfffc13ae3fa4000aff,Male,Friday,Afternoon,Shooting,Santa Ana
+5722cbfffc13ae3fa4000b00,Male,Friday,Night,Assault,Rancho Santa Margarita
+5722cbfffc13ae3fa4000b01,Female,Monday,Night,Theft,Cypress
+5722cbfffc13ae3fa4000b02,Male,Monday,Evening,Kidnap,Irvine
+5722cbfffc13ae3fa4000b03,Male,Wednesday,Evening,Murder,San Juan Capistrano
+5722cbfffc13ae3fa4000b04,Female,Wednesday,Night,Murder,Dana Point
+5722cbfffc13ae3fa4000b05,Male,Thursday,Evening,Murder,Yorba Linda
+5722cbfffc13ae3fa4000b06,Male,Saturday,Evening,Theft,Irvine
+5722cbfffc13ae3fa4000b07,Female,Monday,Evening,Shooting,Lake Forest
+5722cbfffc13ae3fa4000b08,Male,Friday,Afternoon,Kidnap,Lake Forest
+5722cbfffc13ae3fa4000b09,Male,Monday,Night,Theft,La Habra
+5722cbfffc13ae3fa4000b0a,Male,Sunday,Night,Murder,Los Alamitos
+5722cbfffc13ae3fa4000b0b,Male,Tuesday,Afternoon,Shooting,Cypress
+5722cbfffc13ae3fa4000b0c,Female,Friday,Evening,Murder,La Habra
+5722cbfffc13ae3fa4000b0d,Female,Saturday,Evening,Assault,Lake Forest
+5722cbfffc13ae3fa4000b0e,Female,Monday,Night,Shooting,La Palma
+5722cbfffc13ae3fa4000b0f,Male,Friday,Afternoon,Shooting,Seal Beach
+5722cbfffc13ae3fa4000b10,Male,Wednesday,Evening,Theft,Dana Point
+5722cbfffc13ae3fa4000b11,Female,Monday,Night,Murder,Cypress
+5722cbfffc13ae3fa4000b12,Female,Wednesday,Afternoon,Murder,Buena Park
+5722cbfffc13ae3fa4000b13,Male,Friday,Night,Theft,Laguna Niguel
+5722cbfffc13ae3fa4000b14,Male,Monday,Night,Murder,Rancho Santa Margarita
+5722cbfffc13ae3fa4000b15,Male,Friday,Night,Shooting,Brea
+5722cbfffc13ae3fa4000b16,Female,Wednesday,Afternoon,Murder,Villa Park
+5722cbfffc13ae3fa4000b17,Female,Friday,Night,Kidnap,Yorba Linda
+5722cbfffc13ae3fa4000b18,Male,Thursday,Night,Theft,Laguna Niguel
+5722cbfffc13ae3fa4000b19,Male,Saturday,Evening,Murder,Rancho Santa Margarita
+5722cbfffc13ae3fa4000b1a,Male,Friday,Afternoon,Theft,La Palma
+5722cbfffc13ae3fa4000b1b,Female,Sunday,Afternoon,Kidnap,Laguna Hills
+5722cbfffc13ae3fa4000b1c,Female,Tuesday,Evening,Murder,Irvine
+5722cbfffc13ae3fa4000b1d,Female,Wednesday,Afternoon,Murder,Cypress
+5722cbfffc13ae3fa4000b1e,Female,Saturday,Evening,Shooting,Seal Beach
+5722cbfffc13ae3fa4000b1f,Male,Monday,Evening,Assault,Garden Grove
+5722cbfffc13ae3fa4000b20,Male,Friday,Evening,Shooting,Anaheim
+5722cbfffc13ae3fa4000b21,Male,Sunday,Evening,Murder,Orange
+5722cbfffc13ae3fa4000b22,Female,Friday,Evening,Shooting,Tustin
+5722cbfffc13ae3fa4000b23,Male,Saturday,Night,Theft,Laguna Woods
+5722cbfffc13ae3fa4000b24,Female,Sunday,Afternoon,Kidnap,Yorba Linda
+5722cbfffc13ae3fa4000b25,Male,Wednesday,Afternoon,Kidnap,Santa Ana
+5722cbfffc13ae3fa4000b26,Male,Sunday,Night,Murder,Westminster
+5722cbfffc13ae3fa4000b27,Female,Thursday,Evening,Assault,Los Alamitos
+5722cbfffc13ae3fa4000b28,Female,Tuesday,Afternoon,Theft,Aliso Viejo
+5722cbfffc13ae3fa4000b29,Female,Tuesday,Evening,Assault,Dana Point
+5722cbfffc13ae3fa4000b2a,Female,Monday,Afternoon,Shooting,Santa Ana
+5722cbfffc13ae3fa4000b2b,Male,Wednesday,Afternoon,Assault,La Palma
+5722cbfffc13ae3fa4000b2c,Female,Monday,Afternoon,Assault,Irvine
+5722cbfffc13ae3fa4000b2d,Male,Thursday,Evening,Murder,Rancho Santa Margarita
+5722cbfffc13ae3fa4000b2e,Female,Friday,Afternoon,Theft,Huntington Beach
+5722cbfffc13ae3fa4000b2f,Male,Thursday,Evening,Kidnap,Anaheim
+5722cbfffc13ae3fa4000b30,Female,Tuesday,Evening,Theft,Yorba Linda
+5722cbfffc13ae3fa4000b31,Male,Sunday,Afternoon,Assault,Laguna Niguel
+5722cbfffc13ae3fa4000b32,Male,Friday,Afternoon,Kidnap,Aliso Viejo
+5722cbfffc13ae3fa4000b33,Male,Sunday,Night,Assault,Yorba Linda
+5722cbfffc13ae3fa4000b34,Male,Friday,Afternoon,Theft,Buena Park
+5722cbfffc13ae3fa4000b35,Male,Friday,Evening,Shooting,San Juan Capistrano
+5722cbfffc13ae3fa4000b36,Female,Sunday,Evening,Kidnap,Brea
+5722cbfffc13ae3fa4000b37,Male,Wednesday,Afternoon,Kidnap,La Palma
+5722cbfffc13ae3fa4000b38,Female,Friday,Afternoon,Murder,Laguna Hills
+5722cbfffc13ae3fa4000b39,Female,Sunday,Night,Kidnap,Irvine
+5722cbfffc13ae3fa4000b3a,Female,Thursday,Evening,Theft,Placentia
+5722cbfffc13ae3fa4000b3b,Male,Sunday,Afternoon,Theft,Yorba Linda
+5722cbfffc13ae3fa4000b3c,Male,Thursday,Evening,Shooting,Stanton
+5722cbfffc13ae3fa4000b3d,Female,Thursday,Night,Theft,Laguna Woods
+5722cbfffc13ae3fa4000b3e,Female,Saturday,Evening,Theft,Westminster
+5722cbfffc13ae3fa4000b3f,Male,Thursday,Evening,Theft,Laguna Niguel
+5722cbfffc13ae3fa4000b40,Male,Sunday,Night,Assault,Laguna Woods
+5722cbfffc13ae3fa4000b41,Male,Sunday,Afternoon,Shooting,Orange
+5722cbfffc13ae3fa4000b42,Female,Friday,Evening,Murder,San Juan Capistrano
+5722cbfffc13ae3fa4000b43,Female,Wednesday,Afternoon,Kidnap,Laguna Woods
+5722cbfffc13ae3fa4000b44,Male,Sunday,Evening,Assault,Laguna Hills
+5722cbfffc13ae3fa4000b45,Female,Wednesday,Night,Theft,Huntington Beach
+5722cbfffc13ae3fa4000b46,Male,Tuesday,Evening,Shooting,Fullerton
+5722cbfffc13ae3fa4000b47,Male,Tuesday,Evening,Murder,Yorba Linda
+5722cbfffc13ae3fa4000b48,Female,Friday,Afternoon,Shooting,Seal Beach
+5722cbfffc13ae3fa4000b49,Female,Sunday,Evening,Theft,Placentia
+5722cbfffc13ae3fa4000b4a,Male,Sunday,Night,Assault,La Habra
+5722cbfffc13ae3fa4000b4b,Female,Saturday,Night,Kidnap,Santa Ana
+5722cbfffc13ae3fa4000b4c,Female,Friday,Night,Kidnap,Placentia
+5722cbfffc13ae3fa4000b4d,Male,Friday,Night,Kidnap,Anaheim
+5722cbfffc13ae3fa4000b4e,Male,Saturday,Evening,Shooting,Costa Mesa
+5722cbfffc13ae3fa4000b4f,Female,Thursday,Evening,Shooting,Stanton
+5722cbfffc13ae3fa4000b50,Female,Wednesday,Afternoon,Kidnap,Fullerton
+5722cbfffc13ae3fa4000b51,Female,Sunday,Night,Assault,Orange
+5722cbfffc13ae3fa4000b52,Female,Wednesday,Evening,Murder,San Clemente
+5722cbfffc13ae3fa4000b53,Female,Thursday,Night,Kidnap,Irvine
+5722cbfffc13ae3fa4000b54,Male,Monday,Evening,Kidnap,Huntington Beach
+5722cbfffc13ae3fa4000b55,Male,Wednesday,Afternoon,Murder,Garden Grove
+5722cbfffc13ae3fa4000b56,Female,Saturday,Afternoon,Kidnap,Huntington Beach
+5722cbfffc13ae3fa4000b57,Male,Thursday,Evening,Kidnap,Villa Park
+5722cbfffc13ae3fa4000b58,Male,Monday,Evening,Theft,Villa Park
+5722cbfffc13ae3fa4000b59,Male,Monday,Afternoon,Assault,San Clemente
+5722cbfffc13ae3fa4000b5a,Female,Sunday,Night,Theft,Anaheim
+5722cbfffc13ae3fa4000b5b,Male,Thursday,Afternoon,Kidnap,Dana Point
+5722cbfffc13ae3fa4000b5c,Female,Sunday,Afternoon,Murder,Cypress
+5722cbfffc13ae3fa4000b5d,Male,Monday,Afternoon,Shooting,Santa Ana
+5722cbfffc13ae3fa4000b5e,Male,Friday,Night,Kidnap,Villa Park
+5722cbfffc13ae3fa4000b5f,Male,Wednesday,Evening,Assault,Dana Point
+5722cbfffc13ae3fa4000b60,Female,Monday,Afternoon,Kidnap,Mission Viejo
+5722cbfffc13ae3fa4000b61,Male,Sunday,Evening,Murder,Stanton
+5722cbfffc13ae3fa4000b62,Male,Thursday,Afternoon,Assault,Yorba Linda
+5722cbfffc13ae3fa4000b63,Male,Monday,Night,Shooting,La Palma
+5722cbfffc13ae3fa4000b64,Male,Saturday,Night,Murder,Anaheim
+5722cbfffc13ae3fa4000b65,Female,Friday,Evening,Assault,La Habra
+5722cbfffc13ae3fa4000b66,Female,Monday,Afternoon,Shooting,Garden Grove
+5722cbfffc13ae3fa4000b67,Male,Sunday,Evening,Murder,Placentia
+5722cbfffc13ae3fa4000b68,Female,Sunday,Afternoon,Murder,Garden Grove
+5722cbfffc13ae3fa4000b69,Female,Monday,Night,Murder,Orange
+5722cbfffc13ae3fa4000b6a,Male,Friday,Afternoon,Assault,Laguna Beach
+5722cbfffc13ae3fa4000b6b,Male,Monday,Afternoon,Kidnap,Villa Park
+5722cbfffc13ae3fa4000b6c,Male,Wednesday,Evening,Assault,Placentia
+5722cbfffc13ae3fa4000b6d,Female,Wednesday,Evening,Shooting,Buena Park
+5722cbfffc13ae3fa4000b6e,Female,Tuesday,Evening,Shooting,Fullerton
+5722cbfffc13ae3fa4000b6f,Female,Sunday,Evening,Theft,Lake Forest
+5722cbfffc13ae3fa4000b70,Female,Saturday,Afternoon,Assault,Orange
+5722cbfffc13ae3fa4000b71,Male,Tuesday,Evening,Shooting,Dana Point
+5722cbfffc13ae3fa4000b72,Male,Sunday,Night,Murder,Irvine
+5722cbfffc13ae3fa4000b73,Female,Monday,Evening,Kidnap,San Juan Capistrano
+5722cbfffc13ae3fa4000b74,Female,Friday,Afternoon,Assault,Laguna Woods
+5722cbfffc13ae3fa4000b75,Male,Wednesday,Night,Shooting,Placentia
+5722cbfffc13ae3fa4000b76,Male,Tuesday,Afternoon,Kidnap,Yorba Linda
+5722cbfffc13ae3fa4000b77,Female,Wednesday,Evening,Murder,Brea
+5722cbfffc13ae3fa4000b78,Male,Tuesday,Evening,Murder,Fullerton
+5722cbfffc13ae3fa4000b79,Female,Saturday,Afternoon,Shooting,Tustin
+5722cbfffc13ae3fa4000b7a,Male,Thursday,Afternoon,Shooting,Placentia
+5722cbfffc13ae3fa4000b7b,Female,Saturday,Night,Shooting,Dana Point
+5722cbfffc13ae3fa4000b7c,Male,Monday,Evening,Shooting,Tustin
+5722cbfffc13ae3fa4000b7d,Male,Friday,Afternoon,Murder,San Juan Capistrano
+5722cbfffc13ae3fa4000b7e,Male,Monday,Evening,Murder,La Habra
+5722cbfffc13ae3fa4000b7f,Male,Friday,Evening,Assault,Placentia
+5722cbfffc13ae3fa4000b80,Male,Sunday,Night,Murder,Mission Viejo
+5722cbfffc13ae3fa4000b81,Female,Friday,Evening,Kidnap,Irvine
+5722cbfffc13ae3fa4000b82,Male,Tuesday,Afternoon,Kidnap,Aliso Viejo
+5722cbfffc13ae3fa4000b83,Female,Saturday,Evening,Shooting,Irvine
+5722cbfffc13ae3fa4000b84,Female,Thursday,Afternoon,Kidnap,Irvine
+5722cbfffc13ae3fa4000b85,Male,Tuesday,Night,Assault,Laguna Woods
+5722cbfffc13ae3fa4000b86,Male,Saturday,Night,Murder,Mission Viejo
+5722cbfffc13ae3fa4000b87,Male,Saturday,Evening,Shooting,Buena Park
+5722cbfffc13ae3fa4000b88,Female,Saturday,Evening,Murder,Lake Forest
+5722cbfffc13ae3fa4000b89,Female,Friday,Evening,Shooting,San Clemente
+5722cbfffc13ae3fa4000b8a,Female,Friday,Evening,Assault,Tustin
+5722cbfffc13ae3fa4000b8b,Male,Tuesday,Afternoon,Kidnap,Brea
+5722cbfffc13ae3fa4000b8c,Male,Sunday,Evening,Kidnap,Villa Park
+5722cbfffc13ae3fa4000b8d,Male,Monday,Afternoon,Assault,Newport Beach
+5722cbfffc13ae3fa4000b8e,Female,Sunday,Afternoon,Murder,Buena Park
+5722cbfffc13ae3fa4000b8f,Female,Monday,Evening,Murder,Dana Point
+5722cbfffc13ae3fa4000b90,Male,Wednesday,Night,Murder,Westminster
+5722cbfffc13ae3fa4000b91,Male,Wednesday,Night,Assault,Seal Beach
+5722cbfffc13ae3fa4000b92,Female,Friday,Night,Kidnap,Yorba Linda
+5722cbfffc13ae3fa4000b93,Female,Monday,Night,Shooting,Costa Mesa
+5722cbfffc13ae3fa4000b94,Male,Friday,Night,Murder,Buena Park
+5722cbfffc13ae3fa4000b95,Male,Friday,Night,Assault,Villa Park
+5722cbfffc13ae3fa4000b96,Female,Wednesday,Evening,Kidnap,Los Alamitos
+5722cbfffc13ae3fa4000b97,Male,Wednesday,Night,Assault,Rancho Santa Margarita
+5722cbfffc13ae3fa4000b98,Male,Tuesday,Evening,Assault,Mission Viejo
+5722cbfffc13ae3fa4000b99,Male,Tuesday,Night,Theft,Santa Ana
+5722cbfffc13ae3fa4000b9a,Female,Monday,Night,Theft,Tustin
+5722cbfffc13ae3fa4000b9b,Male,Tuesday,Afternoon,Murder,Garden Grove
+5722cbfffc13ae3fa4000b9c,Male,Saturday,Night,Murder,Laguna Niguel
+5722cbfffc13ae3fa4000b9d,Female,Sunday,Night,Assault,Anaheim
+5722cbfffc13ae3fa4000b9e,Female,Sunday,Evening,Theft,Laguna Hills
+5722cbfffc13ae3fa4000b9f,Male,Sunday,Afternoon,Assault,Placentia
+5722cbfffc13ae3fa4000ba0,Male,Saturday,Afternoon,Shooting,Rancho Santa Margarita
+5722cbfffc13ae3fa4000ba1,Male,Saturday,Night,Murder,Aliso Viejo
+5722cbfffc13ae3fa4000ba2,Female,Monday,Afternoon,Kidnap,Dana Point
+5722cbfffc13ae3fa4000ba3,Female,Wednesday,Evening,Shooting,Placentia
+5722cbfffc13ae3fa4000ba4,Female,Monday,Afternoon,Murder,Huntington Beach
+5722cbfffc13ae3fa4000ba5,Female,Monday,Night,Assault,Garden Grove
+5722cbfffc13ae3fa4000ba6,Male,Sunday,Night,Theft,Lake Forest
+5722cbfffc13ae3fa4000ba7,Male,Sunday,Evening,Assault,Irvine
+5722cbfffc13ae3fa4000ba8,Male,Friday,Afternoon,Shooting,Fullerton
+5722cbfffc13ae3fa4000ba9,Female,Tuesday,Evening,Assault,Laguna Woods
+5722cbfffc13ae3fa4000baa,Female,Saturday,Afternoon,Kidnap,Yorba Linda
+5722cbfffc13ae3fa4000bab,Female,Saturday,Night,Kidnap,Cypress
+5722cbfffc13ae3fa4000bac,Female,Monday,Night,Murder,Fullerton
+5722cbfffc13ae3fa4000bad,Female,Friday,Afternoon,Theft,Buena Park
+5722cbfffc13ae3fa4000bae,Male,Sunday,Night,Shooting,Laguna Woods
+5722cbfffc13ae3fa4000baf,Female,Friday,Evening,Kidnap,Westminster
+5722cbfffc13ae3fa4000bb0,Male,Monday,Evening,Murder,Santa Ana
+5722cbfffc13ae3fa4000bb1,Female,Saturday,Afternoon,Shooting,Garden Grove
+5722cbfffc13ae3fa4000bb2,Male,Saturday,Evening,Murder,Laguna Woods
+5722cbfffc13ae3fa4000bb3,Male,Tuesday,Night,Kidnap,Orange
+5722cbfffc13ae3fa4000bb4,Female,Sunday,Evening,Murder,Dana Point
+5722cbfffc13ae3fa4000bb5,Female,Wednesday,Night,Kidnap,Costa Mesa
+5722cbfffc13ae3fa4000bb6,Male,Friday,Afternoon,Shooting,Seal Beach
+5722cbfffc13ae3fa4000bb7,Male,Wednesday,Evening,Shooting,Stanton
+5722cbfffc13ae3fa4000bb8,Female,Monday,Afternoon,Assault,Mission Viejo
+5722cbfffc13ae3fa4000bb9,Male,Thursday,Evening,Murder,Los Alamitos
+5722cbfffc13ae3fa4000bba,Male,Sunday,Evening,Shooting,Los Alamitos
+5722cbfffc13ae3fa4000bbb,Female,Friday,Evening,Assault,La Palma
+5722cbfffc13ae3fa4000bbc,Female,Sunday,Evening,Shooting,Huntington Beach
+5722cbfffc13ae3fa4000bbd,Female,Friday,Evening,Assault,Irvine
+5722cbfffc13ae3fa4000bbe,Male,Tuesday,Afternoon,Murder,Stanton
+5722cbfffc13ae3fa4000bbf,Male,Sunday,Afternoon,Assault,Anaheim
+5722cbfffc13ae3fa4000bc0,Male,Saturday,Afternoon,Murder,Los Alamitos
+5722cbfffc13ae3fa4000bc1,Female,Thursday,Evening,Theft,Laguna Beach
+5722cbfffc13ae3fa4000bc2,Female,Wednesday,Evening,Kidnap,Westminster
+5722cbfffc13ae3fa4000bc3,Male,Tuesday,Night,Theft,Westminster
+5722cbfffc13ae3fa4000bc4,Female,Monday,Afternoon,Murder,Stanton
+5722cbfffc13ae3fa4000bc5,Male,Thursday,Night,Assault,Seal Beach
+5722cbfffc13ae3fa4000bc6,Female,Friday,Evening,Shooting,Cypress
+5722cbfffc13ae3fa4000bc7,Male,Thursday,Afternoon,Assault,La Palma
+5722cbfffc13ae3fa4000bc8,Female,Monday,Evening,Murder,Westminster
+5722cbfffc13ae3fa4000bc9,Female,Wednesday,Evening,Murder,La Habra
+5722cbfffc13ae3fa4000bca,Female,Thursday,Afternoon,Murder,Lake Forest
+5722cbfffc13ae3fa4000bcb,Female,Wednesday,Afternoon,Kidnap,Brea
+5722cbfffc13ae3fa4000bcc,Female,Saturday,Night,Theft,Cypress
+5722cbfffc13ae3fa4000bcd,Male,Thursday,Night,Shooting,Brea
+5722cbfffc13ae3fa4000bce,Female,Tuesday,Night,Assault,Westminster
+5722cbfffc13ae3fa4000bcf,Male,Tuesday,Evening,Shooting,Buena Park
+5722cbfffc13ae3fa4000bd0,Male,Friday,Afternoon,Shooting,Westminster
+5722cbfffc13ae3fa4000bd1,Male,Tuesday,Night,Kidnap,Costa Mesa
+5722cbfffc13ae3fa4000bd2,Female,Thursday,Afternoon,Theft,Cypress
+5722cbfffc13ae3fa4000bd3,Male,Thursday,Evening,Kidnap,Tustin
+5722cbfffc13ae3fa4000bd4,Male,Monday,Evening,Assault,Aliso Viejo
+5722cbfffc13ae3fa4000bd5,Male,Thursday,Night,Murder,Garden Grove
+5722cbfffc13ae3fa4000bd6,Male,Thursday,Afternoon,Theft,Los Alamitos
+5722cbfffc13ae3fa4000bd7,Female,Saturday,Evening,Murder,La Habra
+5722cbfffc13ae3fa4000bd8,Female,Friday,Night,Theft,Rancho Santa Margarita
+5722cbfffc13ae3fa4000bd9,Male,Sunday,Night,Assault,Fountain Valley
+5722cbfffc13ae3fa4000bda,Male,Thursday,Night,Theft,Newport Beach
+5722cbfffc13ae3fa4000bdb,Female,Friday,Night,Assault,Seal Beach
+5722cbfffc13ae3fa4000bdc,Male,Sunday,Night,Assault,Fountain Valley
+5722cbfffc13ae3fa4000bdd,Male,Tuesday,Evening,Assault,La Palma
+5722cbfffc13ae3fa4000bde,Male,Sunday,Afternoon,Theft,Laguna Hills
+5722cbfffc13ae3fa4000bdf,Female,Wednesday,Afternoon,Murder,La Palma
+5722cbfffc13ae3fa4000be0,Female,Saturday,Night,Murder,Buena Park
+5722cbfffc13ae3fa4000be1,Female,Thursday,Evening,Assault,San Clemente
+5722cbfffc13ae3fa4000be2,Male,Thursday,Evening,Murder,Aliso Viejo
+5722cbfffc13ae3fa4000be3,Female,Tuesday,Evening,Kidnap,Cypress
+5722cbfffc13ae3fa4000be4,Male,Friday,Night,Theft,Newport Beach
+5722cbfffc13ae3fa4000be5,Male,Friday,Night,Assault,Seal Beach
+5722cbfffc13ae3fa4000be6,Female,Wednesday,Evening,Theft,Newport Beach
+5722cbfffc13ae3fa4000be7,Male,Wednesday,Night,Theft,Irvine
+5722cbfffc13ae3fa4000be8,Female,Monday,Evening,Kidnap,Placentia
+5722cbfffc13ae3fa4000be9,Female,Friday,Afternoon,Shooting,Huntington Beach
+5722cbfffc13ae3fa4000bea,Male,Saturday,Evening,Assault,Yorba Linda
+5722cbfffc13ae3fa4000beb,Female,Sunday,Night,Assault,Laguna Woods
+5722cbfffc13ae3fa4000bec,Male,Saturday,Afternoon,Kidnap,Dana Point
+5722cbfffc13ae3fa4000bed,Male,Saturday,Night,Murder,Villa Park
+5722cbfffc13ae3fa4000bee,Male,Tuesday,Afternoon,Shooting,Los Alamitos
+5722cbfffc13ae3fa4000bef,Male,Thursday,Night,Shooting,Lake Forest
+5722cbfffc13ae3fa4000bf0,Female,Saturday,Afternoon,Kidnap,Dana Point
+5722cbfffc13ae3fa4000bf1,Female,Saturday,Evening,Theft,Irvine
+5722cbfffc13ae3fa4000bf2,Female,Thursday,Evening,Assault,Fullerton
+5722cbfffc13ae3fa4000bf3,Male,Tuesday,Evening,Kidnap,Stanton
+5722cbfffc13ae3fa4000bf4,Female,Sunday,Evening,Assault,La Habra
+5722cbfffc13ae3fa4000bf5,Female,Wednesday,Night,Shooting,Seal Beach
+5722cbfffc13ae3fa4000bf6,Male,Saturday,Night,Theft,Brea
+5722cbfffc13ae3fa4000bf7,Male,Friday,Evening,Assault,Laguna Hills
+5722cbfffc13ae3fa4000bf8,Female,Saturday,Night,Assault,Rancho Santa Margarita
+5722cbfffc13ae3fa4000bf9,Male,Thursday,Evening,Assault,La Habra
+5722cbfffc13ae3fa4000bfa,Male,Tuesday,Night,Murder,Cypress
+5722cbfffc13ae3fa4000bfb,Female,Sunday,Evening,Shooting,Stanton
+5722cbfffc13ae3fa4000bfc,Male,Wednesday,Evening,Theft,Huntington Beach
+5722cbfffc13ae3fa4000bfd,Female,Sunday,Night,Kidnap,Anaheim
+5722cbfffc13ae3fa4000bfe,Female,Friday,Afternoon,Theft,Laguna Hills
+5722cbfffc13ae3fa4000bff,Male,Friday,Afternoon,Murder,Seal Beach
+5722cbfffc13ae3fa4000c00,Female,Friday,Night,Kidnap,Anaheim
+5722cbfffc13ae3fa4000c01,Male,Tuesday,Evening,Murder,Los Alamitos
+5722cbfffc13ae3fa4000c02,Male,Thursday,Night,Theft,Cypress
+5722cbfffc13ae3fa4000c03,Female,Tuesday,Afternoon,Assault,Fountain Valley
+5722cbfffc13ae3fa4000c04,Female,Sunday,Night,Kidnap,Lake Forest
+5722cbfffc13ae3fa4000c05,Male,Wednesday,Evening,Shooting,Rancho Santa Margarita
+5722cbfffc13ae3fa4000c06,Female,Thursday,Afternoon,Kidnap,San Juan Capistrano
+5722cbfffc13ae3fa4000c07,Female,Wednesday,Evening,Kidnap,La Palma
+5722cbfffc13ae3fa4000c08,Male,Wednesday,Evening,Murder,Santa Ana
+5722cbfffc13ae3fa4000c09,Male,Wednesday,Night,Kidnap,Buena Park
+5722cbfffc13ae3fa4000c0a,Female,Friday,Night,Kidnap,Laguna Niguel
+5722cbfffc13ae3fa4000c0b,Male,Friday,Evening,Shooting,Lake Forest
+5722cbfffc13ae3fa4000c0c,Female,Thursday,Afternoon,Assault,San Juan Capistrano
+5722cbfffc13ae3fa4000c0d,Male,Friday,Afternoon,Shooting,La Habra
+5722cbfffc13ae3fa4000c0e,Female,Tuesday,Evening,Kidnap,Buena Park
+5722cbfffc13ae3fa4000c0f,Male,Wednesday,Night,Shooting,Seal Beach
+5722cbfffc13ae3fa4000c10,Male,Thursday,Afternoon,Kidnap,La Palma
+5722cbfffc13ae3fa4000c11,Male,Tuesday,Afternoon,Kidnap,San Clemente
+5722cbfffc13ae3fa4000c12,Female,Saturday,Night,Assault,Anaheim
+5722cbfffc13ae3fa4000c13,Male,Thursday,Afternoon,Murder,Huntington Beach
+5722cbfffc13ae3fa4000c14,Male,Wednesday,Evening,Theft,Rancho Santa Margarita
+5722cbfffc13ae3fa4000c15,Female,Tuesday,Evening,Assault,La Palma
+5722cbfffc13ae3fa4000c16,Male,Tuesday,Night,Kidnap,Irvine
+5722cbfffc13ae3fa4000c17,Female,Wednesday,Night,Assault,Buena Park
+5722cbfffc13ae3fa4000c18,Male,Sunday,Night,Assault,Placentia
+5722cbfffc13ae3fa4000c19,Female,Wednesday,Afternoon,Shooting,Costa Mesa
+5722cbfffc13ae3fa4000c1a,Female,Wednesday,Evening,Murder,San Juan Capistrano
+5722cbfffc13ae3fa4000c1b,Male,Friday,Evening,Murder,Laguna Woods
+5722cbfffc13ae3fa4000c1c,Male,Sunday,Afternoon,Shooting,Orange
+5722cbfffc13ae3fa4000c1d,Female,Friday,Night,Theft,Dana Point
+5722cbfffc13ae3fa4000c1e,Female,Sunday,Night,Kidnap,Newport Beach
+5722cbfffc13ae3fa4000c1f,Male,Sunday,Afternoon,Assault,Westminster
+5722cbfffc13ae3fa4000c20,Male,Saturday,Evening,Murder,Irvine
+5722cbfffc13ae3fa4000c21,Male,Tuesday,Afternoon,Murder,La Habra
+5722cbfffc13ae3fa4000c22,Female,Sunday,Afternoon,Murder,Cypress
+5722cbfffc13ae3fa4000c23,Female,Monday,Evening,Assault,Anaheim
+5722cbfffc13ae3fa4000c24,Female,Friday,Night,Murder,Costa Mesa
+5722cbfffc13ae3fa4000c25,Male,Wednesday,Night,Kidnap,Fullerton
+5722cbfffc13ae3fa4000c26,Male,Monday,Night,Murder,Stanton
+5722cbfffc13ae3fa4000c27,Male,Sunday,Night,Assault,Brea
+5722cbfffc13ae3fa4000c28,Female,Friday,Evening,Kidnap,Los Alamitos
+5722cbfffc13ae3fa4000c29,Male,Thursday,Evening,Kidnap,Villa Park
+5722cbfffc13ae3fa4000c2a,Female,Thursday,Afternoon,Theft,Garden Grove
+5722cbfffc13ae3fa4000c2b,Male,Thursday,Afternoon,Assault,Stanton
+5722cbfffc13ae3fa4000c2c,Male,Thursday,Night,Shooting,Laguna Niguel
+5722cbfffc13ae3fa4000c2d,Female,Tuesday,Afternoon,Assault,Dana Point
+5722cbfffc13ae3fa4000c2e,Male,Tuesday,Afternoon,Shooting,Fountain Valley
+5722cbfffc13ae3fa4000c2f,Female,Monday,Evening,Assault,Huntington Beach
+5722cbfffc13ae3fa4000c30,Female,Thursday,Afternoon,Theft,Huntington Beach
+5722cbfffc13ae3fa4000c31,Male,Wednesday,Evening,Theft,Fountain Valley
+5722cbfffc13ae3fa4000c32,Female,Tuesday,Night,Murder,Seal Beach
+5722cbfffc13ae3fa4000c33,Female,Sunday,Night,Assault,Fountain Valley
+5722cbfffc13ae3fa4000c34,Female,Monday,Evening,Kidnap,Fullerton
+5722cbfffc13ae3fa4000c35,Female,Tuesday,Night,Theft,Westminster
+5722cbfffc13ae3fa4000c36,Female,Thursday,Evening,Kidnap,Stanton
+5722cbfffc13ae3fa4000c37,Male,Friday,Afternoon,Shooting,Fullerton
+5722cbfffc13ae3fa4000c38,Male,Thursday,Afternoon,Murder,Laguna Woods
+5722cbfffc13ae3fa4000c39,Female,Friday,Night,Shooting,Huntington Beach
+5722cbfffc13ae3fa4000c3a,Male,Thursday,Evening,Assault,La Habra
+5722cbfffc13ae3fa4000c3b,Male,Saturday,Evening,Murder,Lake Forest
+5722cbfffc13ae3fa4000c3c,Female,Monday,Night,Murder,Buena Park
+5722cbfffc13ae3fa4000c3d,Female,Friday,Night,Shooting,Laguna Woods
+5722cbfffc13ae3fa4000c3e,Female,Monday,Night,Murder,Newport Beach
+5722cbfffc13ae3fa4000c3f,Female,Sunday,Afternoon,Theft,Tustin
+5722cbfffc13ae3fa4000c40,Male,Saturday,Afternoon,Assault,Newport Beach
+5722cbfffc13ae3fa4000c41,Female,Friday,Afternoon,Murder,Buena Park
+5722cbfffc13ae3fa4000c42,Female,Saturday,Night,Shooting,Placentia
+5722cbfffc13ae3fa4000c43,Female,Saturday,Night,Theft,Los Alamitos
+5722cbfffc13ae3fa4000c44,Female,Tuesday,Evening,Theft,Yorba Linda
+5722cbfffc13ae3fa4000c45,Male,Wednesday,Evening,Shooting,San Clemente
+5722cbfffc13ae3fa4000c46,Male,Tuesday,Evening,Theft,Aliso Viejo
+5722cbfffc13ae3fa4000c47,Male,Friday,Night,Kidnap,Anaheim
+5722cbfffc13ae3fa4000c48,Female,Saturday,Evening,Shooting,Rancho Santa Margarita
+5722cbfffc13ae3fa4000c49,Male,Sunday,Afternoon,Murder,Yorba Linda
+5722cbfffc13ae3fa4000c4a,Female,Wednesday,Afternoon,Theft,Yorba Linda
+5722cbfffc13ae3fa4000c4b,Male,Sunday,Afternoon,Theft,La Habra
+5722cbfffc13ae3fa4000c4c,Male,Sunday,Night,Assault,Laguna Beach
+5722cbfffc13ae3fa4000c4d,Male,Tuesday,Night,Kidnap,Huntington Beach
+5722cbfffc13ae3fa4000c4e,Male,Sunday,Night,Shooting,Dana Point
+5722cbfffc13ae3fa4000c4f,Female,Tuesday,Evening,Assault,Villa Park
+5722cbfffc13ae3fa4000c50,Female,Thursday,Afternoon,Assault,Laguna Beach
+5722cbfffc13ae3fa4000c51,Female,Saturday,Evening,Kidnap,San Juan Capistrano
+5722cbfffc13ae3fa4000c52,Female,Wednesday,Evening,Shooting,Fullerton
+5722cbfffc13ae3fa4000c53,Female,Saturday,Night,Murder,Newport Beach
+5722cbfffc13ae3fa4000c54,Male,Wednesday,Evening,Kidnap,Anaheim
+5722cbfffc13ae3fa4000c55,Male,Wednesday,Night,Theft,Tustin
+5722cbfffc13ae3fa4000c56,Male,Sunday,Night,Shooting,Yorba Linda
+5722cbfffc13ae3fa4000c57,Male,Friday,Night,Kidnap,San Clemente
+5722cbfffc13ae3fa4000c58,Male,Friday,Afternoon,Theft,San Clemente
+5722cbfffc13ae3fa4000c59,Female,Wednesday,Evening,Murder,Irvine
+5722cbfffc13ae3fa4000c5a,Female,Friday,Night,Theft,Anaheim
+5722cbfffc13ae3fa4000c5b,Female,Wednesday,Evening,Theft,Seal Beach
+5722cbfffc13ae3fa4000c5c,Male,Wednesday,Night,Murder,Anaheim
+5722cbfffc13ae3fa4000c5d,Male,Saturday,Evening,Kidnap,San Juan Capistrano
+5722cbfffc13ae3fa4000c5e,Male,Monday,Night,Murder,San Juan Capistrano
+5722cbfffc13ae3fa4000c5f,Male,Saturday,Evening,Assault,Cypress
+5722cbfffc13ae3fa4000c60,Male,Wednesday,Afternoon,Assault,Irvine
+5722cbfffc13ae3fa4000c61,Female,Sunday,Afternoon,Murder,La Palma
+5722cbfffc13ae3fa4000c62,Male,Tuesday,Afternoon,Assault,Cypress
+5722cbfffc13ae3fa4000c63,Male,Saturday,Evening,Murder,Laguna Woods
+5722cbfffc13ae3fa4000c64,Female,Tuesday,Night,Murder,Anaheim
+5722cbfffc13ae3fa4000c65,Female,Monday,Night,Theft,Laguna Woods
+5722cbfffc13ae3fa4000c66,Female,Wednesday,Evening,Kidnap,Lake Forest
+5722cbfffc13ae3fa4000c67,Female,Sunday,Afternoon,Shooting,Fullerton
+5722cbfffc13ae3fa4000c68,Female,Tuesday,Night,Theft,Cypress
+5722cbfffc13ae3fa4000c69,Female,Wednesday,Evening,Theft,San Clemente
+5722cbfffc13ae3fa4000c6a,Female,Thursday,Afternoon,Theft,Laguna Woods
+5722cbfffc13ae3fa4000c6b,Female,Tuesday,Evening,Kidnap,Fullerton
+5722cbfffc13ae3fa4000c6c,Female,Monday,Evening,Theft,Aliso Viejo
+5722cbfffc13ae3fa4000c6d,Male,Saturday,Night,Theft,Aliso Viejo
+5722cbfffc13ae3fa4000c6e,Female,Monday,Night,Murder,San Clemente
+5722cbfffc13ae3fa4000c6f,Male,Wednesday,Evening,Murder,Huntington Beach
+5722cbfffc13ae3fa4000c70,Female,Sunday,Afternoon,Kidnap,Cypress
+5722cbfffc13ae3fa4000c71,Male,Tuesday,Afternoon,Shooting,La Habra
+5722cbfffc13ae3fa4000c72,Female,Friday,Night,Kidnap,Orange
+5722cbfffc13ae3fa4000c73,Female,Thursday,Night,Murder,Stanton
+5722cbfffc13ae3fa4000c74,Female,Saturday,Evening,Assault,Garden Grove
+5722cbfffc13ae3fa4000c75,Male,Wednesday,Afternoon,Theft,Huntington Beach
+5722cbfffc13ae3fa4000c76,Female,Saturday,Night,Assault,Irvine
+5722cbfffc13ae3fa4000c77,Male,Saturday,Evening,Murder,Los Alamitos
+5722cbfffc13ae3fa4000c78,Female,Friday,Afternoon,Shooting,Westminster
+5722cbfffc13ae3fa4000c79,Female,Sunday,Night,Shooting,Los Alamitos
+5722cbfffc13ae3fa4000c7a,Female,Thursday,Afternoon,Kidnap,Cypress
+5722cbfffc13ae3fa4000c7b,Female,Tuesday,Afternoon,Shooting,Tustin
+5722cbfffc13ae3fa4000c7c,Male,Friday,Afternoon,Murder,Santa Ana
+5722cbfffc13ae3fa4000c7d,Male,Sunday,Night,Kidnap,Stanton
+5722cbfffc13ae3fa4000c7e,Male,Tuesday,Evening,Assault,Rancho Santa Margarita
+5722cbfffc13ae3fa4000c7f,Male,Sunday,Afternoon,Murder,Huntington Beach
+5722cbfffc13ae3fa4000c80,Male,Monday,Afternoon,Assault,Yorba Linda
+5722cbfffc13ae3fa4000c81,Female,Saturday,Evening,Theft,Villa Park
+5722cbfffc13ae3fa4000c82,Male,Tuesday,Evening,Kidnap,Mission Viejo
+5722cbfffc13ae3fa4000c83,Male,Thursday,Night,Kidnap,Costa Mesa
+5722cbfffc13ae3fa4000c84,Female,Monday,Afternoon,Kidnap,Mission Viejo
+5722cbfffc13ae3fa4000c85,Male,Tuesday,Afternoon,Murder,Aliso Viejo
+5722cbfffc13ae3fa4000c86,Male,Wednesday,Night,Theft,Mission Viejo
+5722cbfffc13ae3fa4000c87,Male,Saturday,Night,Assault,Yorba Linda
+5722cbfffc13ae3fa4000c88,Male,Thursday,Evening,Kidnap,Fountain Valley
+5722cbfffc13ae3fa4000c89,Female,Tuesday,Afternoon,Theft,Costa Mesa
+5722cbfffc13ae3fa4000c8a,Male,Friday,Evening,Assault,Laguna Woods
+5722cbfffc13ae3fa4000c8b,Female,Thursday,Night,Theft,Garden Grove
+5722cbfffc13ae3fa4000c8c,Male,Thursday,Evening,Theft,Laguna Hills
+5722cbfffc13ae3fa4000c8d,Female,Saturday,Evening,Murder,Santa Ana
+5722cbfffc13ae3fa4000c8e,Male,Sunday,Evening,Theft,Lake Forest
+5722cbfffc13ae3fa4000c8f,Female,Thursday,Afternoon,Theft,Stanton
+5722cbfffc13ae3fa4000c90,Female,Tuesday,Evening,Shooting,Newport Beach
+5722cbfffc13ae3fa4000c91,Female,Sunday,Evening,Kidnap,Orange
+5722cbfffc13ae3fa4000c92,Male,Monday,Afternoon,Murder,Villa Park
+5722cbfffc13ae3fa4000c93,Female,Sunday,Afternoon,Theft,San Juan Capistrano
+5722cbfffc13ae3fa4000c94,Female,Saturday,Afternoon,Kidnap,Rancho Santa Margarita
+5722cbfffc13ae3fa4000c95,Male,Friday,Evening,Theft,La Palma
+5722cbfffc13ae3fa4000c96,Male,Friday,Night,Shooting,Tustin
+5722cbfffc13ae3fa4000c97,Female,Saturday,Evening,Assault,Anaheim
+5722cbfffc13ae3fa4000c98,Male,Saturday,Evening,Shooting,Los Alamitos
+5722cbfffc13ae3fa4000c99,Female,Wednesday,Night,Shooting,Tustin
+5722cbfffc13ae3fa4000c9a,Male,Monday,Night,Shooting,Fullerton
+5722cbfffc13ae3fa4000c9b,Female,Sunday,Evening,Murder,Villa Park
+5722cbfffc13ae3fa4000c9c,Female,Thursday,Evening,Shooting,Costa Mesa
+5722cbfffc13ae3fa4000c9d,Female,Saturday,Night,Shooting,Fullerton
+5722cbfffc13ae3fa4000c9e,Male,Friday,Afternoon,Kidnap,San Clemente
+5722cbfffc13ae3fa4000c9f,Male,Saturday,Evening,Murder,Irvine
+5722cbfffc13ae3fa4000ca0,Female,Monday,Evening,Kidnap,San Juan Capistrano
+5722cbfffc13ae3fa4000ca1,Male,Monday,Night,Kidnap,Garden Grove
+5722cbfffc13ae3fa4000ca2,Female,Tuesday,Night,Shooting,Tustin
+5722cbfffc13ae3fa4000ca3,Male,Tuesday,Evening,Kidnap,Huntington Beach
+5722cbfffc13ae3fa4000ca4,Male,Thursday,Evening,Shooting,Anaheim
+5722cbfffc13ae3fa4000ca5,Male,Friday,Afternoon,Shooting,Seal Beach
+5722cbfffc13ae3fa4000ca6,Female,Monday,Evening,Shooting,Anaheim
+5722cbfffc13ae3fa4000ca7,Male,Sunday,Evening,Murder,Anaheim
+5722cbfffc13ae3fa4000ca8,Female,Thursday,Evening,Shooting,La Habra
+5722cbfffc13ae3fa4000ca9,Female,Wednesday,Evening,Theft,Costa Mesa
+5722cbfffc13ae3fa4000caa,Male,Sunday,Evening,Assault,Villa Park
+5722cbfffc13ae3fa4000cab,Male,Sunday,Evening,Theft,Irvine
+5722cbfffc13ae3fa4000cac,Female,Sunday,Night,Kidnap,Westminster
+5722cbfffc13ae3fa4000cad,Female,Saturday,Night,Shooting,Lake Forest
+5722cbfffc13ae3fa4000cae,Female,Monday,Afternoon,Theft,Yorba Linda
+5722cbfffc13ae3fa4000caf,Female,Saturday,Evening,Assault,La Palma
+5722cbfffc13ae3fa4000cb0,Male,Thursday,Evening,Murder,Yorba Linda
+5722cbfffc13ae3fa4000cb1,Male,Saturday,Afternoon,Assault,Irvine
+5722cbfffc13ae3fa4000cb2,Male,Friday,Night,Assault,Fullerton
+5722cbfffc13ae3fa4000cb3,Female,Monday,Night,Theft,La Palma
+5722cbfffc13ae3fa4000cb4,Male,Sunday,Evening,Assault,Tustin
+5722cbfffc13ae3fa4000cb5,Male,Friday,Afternoon,Murder,La Palma
+5722cbfffc13ae3fa4000cb6,Male,Thursday,Afternoon,Shooting,Tustin
+5722cbfffc13ae3fa4000cb7,Male,Monday,Night,Theft,Tustin
+5722cbfffc13ae3fa4000cb8,Female,Wednesday,Afternoon,Assault,Laguna Hills
+5722cbfffc13ae3fa4000cb9,Female,Thursday,Afternoon,Assault,La Habra
+5722cbfffc13ae3fa4000cba,Male,Sunday,Afternoon,Theft,Irvine
+5722cbfffc13ae3fa4000cbb,Male,Saturday,Evening,Theft,Stanton
+5722cbfffc13ae3fa4000cbc,Female,Sunday,Evening,Shooting,San Clemente
+5722cbfffc13ae3fa4000cbd,Female,Friday,Afternoon,Kidnap,Laguna Hills
+5722cbfffc13ae3fa4000cbe,Male,Monday,Evening,Theft,Costa Mesa
+5722cbfffc13ae3fa4000cbf,Female,Wednesday,Afternoon,Theft,Santa Ana
+5722cbfffc13ae3fa4000cc0,Female,Saturday,Night,Kidnap,La Habra
+5722cbfffc13ae3fa4000cc1,Female,Saturday,Night,Assault,San Clemente
+5722cbfffc13ae3fa4000cc2,Male,Monday,Evening,Theft,Newport Beach
+5722cbfffc13ae3fa4000cc3,Male,Wednesday,Afternoon,Murder,Fountain Valley
+5722cbfffc13ae3fa4000cc4,Male,Tuesday,Evening,Shooting,Laguna Hills
+5722cbfffc13ae3fa4000cc5,Female,Saturday,Night,Theft,Rancho Santa Margarita
+5722cbfffc13ae3fa4000cc6,Female,Monday,Night,Shooting,La Habra
+5722cbfffc13ae3fa4000cc7,Female,Monday,Night,Kidnap,Tustin
+5722cbfffc13ae3fa4000cc8,Male,Wednesday,Evening,Theft,La Palma
+5722cbfffc13ae3fa4000cc9,Male,Sunday,Evening,Murder,Lake Forest
+5722cbfffc13ae3fa4000cca,Female,Sunday,Afternoon,Murder,Laguna Hills
+5722cbfffc13ae3fa4000ccb,Female,Sunday,Evening,Assault,Placentia
+5722cbfffc13ae3fa4000ccc,Male,Thursday,Afternoon,Murder,Anaheim
+5722cbfffc13ae3fa4000ccd,Female,Thursday,Night,Murder,Stanton
+5722cbfffc13ae3fa4000cce,Female,Wednesday,Afternoon,Shooting,Costa Mesa
+5722cbfffc13ae3fa4000ccf,Female,Tuesday,Afternoon,Kidnap,Aliso Viejo
+5722cbfffc13ae3fa4000cd0,Male,Thursday,Night,Murder,La Habra
+5722cbfffc13ae3fa4000cd1,Male,Wednesday,Night,Murder,Fountain Valley
+5722cbfffc13ae3fa4000cd2,Female,Monday,Night,Assault,San Juan Capistrano
+5722cbfffc13ae3fa4000cd3,Male,Wednesday,Evening,Murder,Yorba Linda
+5722cbfffc13ae3fa4000cd4,Male,Tuesday,Evening,Shooting,Fullerton
+5722cbfffc13ae3fa4000cd5,Female,Monday,Afternoon,Theft,Westminster
+5722cbfffc13ae3fa4000cd6,Male,Sunday,Afternoon,Assault,Stanton
+5722cbfffc13ae3fa4000cd7,Male,Friday,Afternoon,Murder,Anaheim
+5722cbfffc13ae3fa4000cd8,Male,Thursday,Night,Shooting,Garden Grove
+5722cbfffc13ae3fa4000cd9,Female,Monday,Afternoon,Assault,Stanton
+5722cbfffc13ae3fa4000cda,Male,Friday,Afternoon,Kidnap,Irvine
+5722cbfffc13ae3fa4000cdb,Female,Saturday,Afternoon,Shooting,Lake Forest
+5722cbfffc13ae3fa4000cdc,Male,Tuesday,Afternoon,Shooting,Buena Park
+5722cbfffc13ae3fa4000cdd,Male,Wednesday,Evening,Murder,Irvine
+5722cbfffc13ae3fa4000cde,Female,Sunday,Afternoon,Murder,Anaheim
+5722cbfffc13ae3fa4000cdf,Female,Saturday,Evening,Kidnap,La Habra
+5722cbfffc13ae3fa4000ce0,Male,Wednesday,Afternoon,Assault,Laguna Beach
+5722cbfffc13ae3fa4000ce1,Female,Friday,Afternoon,Assault,Brea
+5722cbfffc13ae3fa4000ce2,Male,Monday,Night,Theft,Newport Beach
+5722cbfffc13ae3fa4000ce3,Female,Sunday,Night,Shooting,Los Alamitos
+5722cbfffc13ae3fa4000ce4,Male,Tuesday,Afternoon,Shooting,San Juan Capistrano
+5722cbfffc13ae3fa4000ce5,Male,Tuesday,Night,Shooting,Villa Park
+5722cbfffc13ae3fa4000ce6,Female,Sunday,Evening,Murder,La Palma
+5722cbfffc13ae3fa4000ce7,Male,Thursday,Night,Shooting,Villa Park
+5722cbfffc13ae3fa4000ce8,Male,Tuesday,Night,Shooting,Cypress
+5722cbfffc13ae3fa4000ce9,Male,Sunday,Evening,Murder,Brea
+5722cbfffc13ae3fa4000cea,Male,Monday,Evening,Assault,Tustin
+5722cbfffc13ae3fa4000ceb,Female,Wednesday,Afternoon,Theft,San Juan Capistrano
+5722cbfffc13ae3fa4000cec,Male,Monday,Afternoon,Theft,Buena Park
+5722cbfffc13ae3fa4000ced,Female,Tuesday,Evening,Shooting,Rancho Santa Margarita
+5722cbfffc13ae3fa4000cee,Male,Sunday,Night,Theft,San Clemente
+5722cbfffc13ae3fa4000cef,Female,Wednesday,Afternoon,Shooting,Placentia
+5722cbfffc13ae3fa4000cf0,Female,Saturday,Afternoon,Theft,Newport Beach
+5722cbfffc13ae3fa4000cf1,Female,Tuesday,Evening,Shooting,Stanton
+5722cbfffc13ae3fa4000cf2,Male,Monday,Evening,Kidnap,Laguna Woods
+5722cbfffc13ae3fa4000cf3,Female,Saturday,Evening,Assault,Fountain Valley
+5722cc00fc13ae3fa4000cf4,Female,Friday,Evening,Assault,Newport Beach
+5722cc00fc13ae3fa4000cf5,Male,Sunday,Night,Theft,Villa Park
+5722cc00fc13ae3fa4000cf6,Male,Wednesday,Night,Murder,Aliso Viejo
+5722cc00fc13ae3fa4000cf7,Female,Wednesday,Night,Kidnap,Lake Forest
+5722cc00fc13ae3fa4000cf8,Male,Monday,Night,Theft,Cypress
+5722cc00fc13ae3fa4000cf9,Male,Sunday,Night,Shooting,Cypress
+5722cc00fc13ae3fa4000cfa,Male,Saturday,Afternoon,Shooting,San Juan Capistrano
+5722cc00fc13ae3fa4000cfb,Male,Tuesday,Afternoon,Shooting,Laguna Beach
+5722cc00fc13ae3fa4000cfc,Male,Friday,Evening,Theft,Stanton
+5722cc00fc13ae3fa4000cfd,Male,Monday,Evening,Theft,Seal Beach
+5722cc00fc13ae3fa4000cfe,Female,Tuesday,Afternoon,Theft,Fountain Valley
+5722cc00fc13ae3fa4000cff,Male,Tuesday,Evening,Kidnap,Irvine
+5722cc00fc13ae3fa4000d00,Male,Thursday,Night,Shooting,Placentia
+5722cc00fc13ae3fa4000d01,Male,Wednesday,Night,Assault,Orange
+5722cc00fc13ae3fa4000d02,Female,Monday,Night,Murder,Placentia
+5722cc00fc13ae3fa4000d03,Female,Wednesday,Evening,Theft,Placentia

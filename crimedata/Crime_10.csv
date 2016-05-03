@@ -1,0 +1,1001 @@
+case_number,gender,day,time_of_day,Offence,City
+5722cce2fc13ae3fa40018bc,Female,Thursday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa40018bd,Male,Thursday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa40018be,Female,Monday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa40018bf,Female,Monday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa40018c0,Female,Saturday,Night,Shooting,Tustin
+5722cce2fc13ae3fa40018c1,Male,Monday,Evening,Assault,Tustin
+5722cce2fc13ae3fa40018c2,Male,Friday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa40018c3,Female,Saturday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa40018c4,Male,Friday,Night,Shooting,Tustin
+5722cce2fc13ae3fa40018c5,Male,Thursday,Night,Shooting,Tustin
+5722cce2fc13ae3fa40018c6,Female,Friday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa40018c7,Female,Thursday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa40018c8,Female,Thursday,Night,Assault,Tustin
+5722cce2fc13ae3fa40018c9,Female,Thursday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa40018ca,Female,Monday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa40018cb,Female,Saturday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa40018cc,Male,Thursday,Night,Assault,Fullerton
+5722cce2fc13ae3fa40018cd,Male,Thursday,Night,Theft,Tustin
+5722cce2fc13ae3fa40018ce,Male,Saturday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa40018cf,Male,Friday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa40018d0,Female,Saturday,Evening,Assault,Tustin
+5722cce2fc13ae3fa40018d1,Male,Monday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa40018d2,Male,Monday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa40018d3,Male,Friday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa40018d4,Male,Thursday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40018d5,Female,Friday,Evening,Assault,Tustin
+5722cce2fc13ae3fa40018d6,Male,Friday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa40018d7,Male,Saturday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa40018d8,Male,Saturday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40018d9,Female,Saturday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa40018da,Male,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa40018db,Male,Thursday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa40018dc,Male,Thursday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa40018dd,Female,Friday,Night,Theft,Fullerton
+5722cce2fc13ae3fa40018de,Female,Friday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa40018df,Female,Monday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa40018e0,Male,Monday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa40018e1,Male,Saturday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa40018e2,Female,Monday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa40018e3,Male,Thursday,Night,Assault,Fullerton
+5722cce2fc13ae3fa40018e4,Female,Thursday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa40018e5,Female,Friday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa40018e6,Female,Monday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40018e7,Female,Monday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa40018e8,Female,Monday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa40018e9,Female,Friday,Night,Assault,Fullerton
+5722cce2fc13ae3fa40018ea,Male,Friday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa40018eb,Female,Saturday,Evening,Assault,Tustin
+5722cce2fc13ae3fa40018ec,Female,Monday,Evening,Theft,Tustin
+5722cce2fc13ae3fa40018ed,Female,Saturday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa40018ee,Male,Friday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa40018ef,Female,Monday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa40018f0,Male,Friday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa40018f1,Male,Monday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa40018f2,Male,Friday,Night,Theft,Tustin
+5722cce2fc13ae3fa40018f3,Female,Monday,Afternoon,Kidnap,Fullerton
+5722cce2fc13ae3fa40018f4,Female,Saturday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa40018f5,Female,Friday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa40018f6,Female,Saturday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40018f7,Female,Monday,Night,Theft,Fullerton
+5722cce2fc13ae3fa40018f8,Female,Saturday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa40018f9,Female,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa40018fa,Male,Thursday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa40018fb,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa40018fc,Male,Monday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa40018fd,Male,Monday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa40018fe,Male,Friday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa40018ff,Female,Thursday,Night,Theft,Fullerton
+5722cce2fc13ae3fa4001900,Female,Monday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001901,Female,Thursday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa4001902,Male,Saturday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001903,Male,Saturday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001904,Male,Monday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001905,Female,Friday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001906,Female,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001907,Male,Thursday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001908,Male,Monday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001909,Female,Friday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa400190a,Male,Friday,Night,Theft,Fullerton
+5722cce2fc13ae3fa400190b,Female,Saturday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa400190c,Female,Friday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa400190d,Male,Saturday,Afternoon,Assault,Santa Ana
+5722cce2fc13ae3fa400190e,Female,Saturday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa400190f,Female,Friday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001910,Male,Monday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001911,Female,Thursday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001912,Male,Monday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001913,Male,Friday,Night,Theft,Tustin
+5722cce2fc13ae3fa4001914,Female,Monday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001915,Male,Thursday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001916,Female,Saturday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001917,Male,Thursday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001918,Male,Friday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001919,Male,Thursday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa400191a,Female,Friday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa400191b,Male,Saturday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa400191c,Female,Saturday,Night,Shooting,Tustin
+5722cce2fc13ae3fa400191d,Male,Thursday,Night,Theft,Tustin
+5722cce2fc13ae3fa400191e,Male,Saturday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa400191f,Female,Monday,Night,Assault,Fullerton
+5722cce2fc13ae3fa4001920,Male,Monday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001921,Female,Monday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001922,Female,Thursday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001923,Female,Friday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001924,Female,Monday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001925,Female,Monday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001926,Male,Saturday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001927,Female,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001928,Male,Thursday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001929,Male,Saturday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa400192a,Female,Saturday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa400192b,Female,Monday,Evening,Theft,Tustin
+5722cce2fc13ae3fa400192c,Male,Friday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa400192d,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa400192e,Male,Monday,Night,Theft,Costa Mesa
+5722cce2fc13ae3fa400192f,Female,Friday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001930,Male,Friday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001931,Female,Friday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001932,Female,Friday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001933,Male,Friday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001934,Female,Monday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001935,Male,Saturday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001936,Female,Monday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001937,Female,Friday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001938,Male,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001939,Female,Saturday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa400193a,Female,Thursday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa400193b,Male,Friday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa400193c,Female,Saturday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa400193d,Female,Thursday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa400193e,Female,Thursday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa400193f,Male,Saturday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001940,Female,Thursday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001941,Male,Saturday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa4001942,Male,Saturday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001943,Female,Saturday,Evening,Assault,Tustin
+5722cce2fc13ae3fa4001944,Female,Thursday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001945,Female,Friday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001946,Female,Friday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001947,Female,Thursday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001948,Female,Friday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001949,Male,Friday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa400194a,Male,Friday,Night,Shooting,Tustin
+5722cce2fc13ae3fa400194b,Male,Friday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa400194c,Female,Thursday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa400194d,Male,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa400194e,Male,Monday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa400194f,Female,Thursday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001950,Male,Monday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001951,Male,Monday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001952,Female,Monday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001953,Female,Monday,Afternoon,Assault,Santa Ana
+5722cce2fc13ae3fa4001954,Male,Monday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001955,Female,Saturday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa4001956,Male,Monday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa4001957,Female,Saturday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa4001958,Male,Monday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001959,Female,Friday,Afternoon,Kidnap,Fullerton
+5722cce2fc13ae3fa400195a,Male,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa400195b,Female,Saturday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa400195c,Male,Friday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa400195d,Female,Thursday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa400195e,Male,Saturday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa400195f,Male,Saturday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001960,Female,Saturday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa4001961,Male,Friday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001962,Male,Saturday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001963,Male,Thursday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001964,Male,Thursday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001965,Male,Saturday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001966,Female,Friday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001967,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001968,Female,Saturday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001969,Male,Friday,Afternoon,Assault,Santa Ana
+5722cce2fc13ae3fa400196a,Male,Friday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa400196b,Male,Friday,Night,Theft,Fullerton
+5722cce2fc13ae3fa400196c,Male,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa400196d,Female,Saturday,Night,Theft,Tustin
+5722cce2fc13ae3fa400196e,Male,Thursday,Evening,Assault,Tustin
+5722cce2fc13ae3fa400196f,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001970,Male,Friday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001971,Female,Thursday,Night,Assault,Fullerton
+5722cce2fc13ae3fa4001972,Male,Monday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001973,Female,Thursday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001974,Female,Thursday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001975,Female,Monday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001976,Female,Thursday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001977,Female,Monday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001978,Male,Monday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa4001979,Male,Thursday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa400197a,Male,Monday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa400197b,Female,Monday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa400197c,Female,Thursday,Night,Theft,Fullerton
+5722cce2fc13ae3fa400197d,Male,Saturday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa400197e,Female,Monday,Afternoon,Kidnap,Fullerton
+5722cce2fc13ae3fa400197f,Male,Thursday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001980,Female,Thursday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001981,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001982,Male,Thursday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001983,Female,Thursday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001984,Female,Monday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001985,Male,Friday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001986,Female,Saturday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001987,Male,Friday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa4001988,Male,Friday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001989,Female,Saturday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa400198a,Male,Monday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa400198b,Female,Saturday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa400198c,Male,Monday,Night,Theft,Fullerton
+5722cce2fc13ae3fa400198d,Male,Thursday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa400198e,Female,Saturday,Night,Theft,Tustin
+5722cce2fc13ae3fa400198f,Male,Monday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001990,Female,Saturday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001991,Female,Saturday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001992,Male,Monday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001993,Female,Monday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001994,Female,Saturday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001995,Female,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001996,Female,Thursday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa4001997,Male,Friday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001998,Male,Friday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001999,Male,Thursday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa400199a,Male,Monday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa400199b,Female,Saturday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa400199c,Female,Saturday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa400199d,Male,Monday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa400199e,Female,Saturday,Night,Assault,Tustin
+5722cce2fc13ae3fa400199f,Male,Monday,Night,Assault,Tustin
+5722cce2fc13ae3fa40019a0,Female,Friday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa40019a1,Female,Saturday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa40019a2,Female,Friday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa40019a3,Female,Thursday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa40019a4,Male,Friday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa40019a5,Male,Saturday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa40019a6,Male,Thursday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa40019a7,Female,Monday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa40019a8,Male,Friday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa40019a9,Male,Monday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa40019aa,Female,Monday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa40019ab,Male,Thursday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa40019ac,Male,Thursday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa40019ad,Male,Saturday,Night,Assault,Tustin
+5722cce2fc13ae3fa40019ae,Male,Thursday,Night,Assault,Fullerton
+5722cce2fc13ae3fa40019af,Female,Thursday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40019b0,Female,Thursday,Evening,Assault,Tustin
+5722cce2fc13ae3fa40019b1,Female,Saturday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa40019b2,Female,Saturday,Night,Assault,Fullerton
+5722cce2fc13ae3fa40019b3,Female,Monday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa40019b4,Male,Monday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa40019b5,Female,Saturday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa40019b6,Male,Saturday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa40019b7,Female,Thursday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa40019b8,Male,Monday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40019b9,Female,Friday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa40019ba,Female,Saturday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa40019bb,Female,Saturday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa40019bc,Male,Thursday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa40019bd,Male,Saturday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa40019be,Female,Thursday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa40019bf,Female,Thursday,Night,Assault,Fullerton
+5722cce2fc13ae3fa40019c0,Male,Thursday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa40019c1,Female,Thursday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa40019c2,Male,Monday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa40019c3,Female,Thursday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa40019c4,Female,Monday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa40019c5,Male,Saturday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa40019c6,Female,Friday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa40019c7,Male,Monday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa40019c8,Female,Monday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa40019c9,Female,Monday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa40019ca,Female,Friday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa40019cb,Female,Thursday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa40019cc,Male,Thursday,Night,Theft,Costa Mesa
+5722cce2fc13ae3fa40019cd,Male,Thursday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40019ce,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa40019cf,Female,Thursday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa40019d0,Male,Monday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa40019d1,Male,Thursday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa40019d2,Male,Monday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa40019d3,Female,Thursday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa40019d4,Female,Monday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa40019d5,Female,Thursday,Afternoon,Assault,Santa Ana
+5722cce2fc13ae3fa40019d6,Female,Friday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa40019d7,Male,Friday,Night,Assault,Fullerton
+5722cce2fc13ae3fa40019d8,Male,Thursday,Night,Assault,Fullerton
+5722cce2fc13ae3fa40019d9,Male,Thursday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa40019da,Male,Saturday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa40019db,Male,Saturday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40019dc,Female,Friday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa40019dd,Female,Monday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa40019de,Female,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa40019df,Male,Saturday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa40019e0,Male,Thursday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa40019e1,Female,Saturday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa40019e2,Male,Thursday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa40019e3,Male,Thursday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa40019e4,Female,Friday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa40019e5,Female,Monday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa40019e6,Female,Friday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa40019e7,Male,Friday,Night,Theft,Tustin
+5722cce2fc13ae3fa40019e8,Female,Saturday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa40019e9,Female,Monday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa40019ea,Female,Thursday,Evening,Theft,Tustin
+5722cce2fc13ae3fa40019eb,Male,Thursday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa40019ec,Male,Thursday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa40019ed,Female,Friday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40019ee,Male,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa40019ef,Female,Friday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa40019f0,Male,Thursday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa40019f1,Male,Saturday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa40019f2,Female,Thursday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa40019f3,Male,Thursday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa40019f4,Female,Saturday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa40019f5,Female,Thursday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa40019f6,Female,Friday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa40019f7,Male,Saturday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa40019f8,Male,Friday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa40019f9,Male,Saturday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa40019fa,Male,Thursday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa40019fb,Male,Saturday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa40019fc,Male,Monday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa40019fd,Male,Thursday,Night,Theft,Tustin
+5722cce2fc13ae3fa40019fe,Female,Friday,Night,Theft,Costa Mesa
+5722cce2fc13ae3fa40019ff,Male,Saturday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a00,Male,Saturday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001a01,Female,Thursday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a02,Male,Friday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a03,Female,Monday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa4001a04,Male,Thursday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a05,Male,Saturday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001a06,Male,Friday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a07,Female,Saturday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a08,Male,Monday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001a09,Female,Friday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001a0a,Male,Saturday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a0b,Female,Friday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001a0c,Male,Monday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001a0d,Female,Thursday,Evening,Assault,Tustin
+5722cce2fc13ae3fa4001a0e,Male,Saturday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001a0f,Male,Monday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a10,Male,Saturday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001a11,Female,Thursday,Night,Assault,Fullerton
+5722cce2fc13ae3fa4001a12,Male,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001a13,Female,Friday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001a14,Male,Monday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a15,Male,Monday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001a16,Female,Thursday,Night,Assault,Fullerton
+5722cce2fc13ae3fa4001a17,Female,Thursday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a18,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a19,Male,Saturday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001a1a,Female,Friday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a1b,Female,Saturday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001a1c,Female,Thursday,Evening,Assault,Tustin
+5722cce2fc13ae3fa4001a1d,Male,Friday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001a1e,Male,Monday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a1f,Male,Thursday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a20,Female,Thursday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a21,Male,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001a22,Female,Saturday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001a23,Male,Saturday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa4001a24,Male,Saturday,Evening,Assault,Tustin
+5722cce2fc13ae3fa4001a25,Female,Friday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001a26,Male,Saturday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001a27,Female,Saturday,Afternoon,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a28,Female,Saturday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa4001a29,Male,Saturday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001a2a,Female,Thursday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a2b,Male,Thursday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a2c,Male,Saturday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001a2d,Male,Friday,Evening,Assault,Tustin
+5722cce2fc13ae3fa4001a2e,Male,Saturday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001a2f,Female,Monday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a30,Female,Saturday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa4001a31,Female,Thursday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa4001a32,Male,Saturday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001a33,Female,Saturday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001a34,Female,Friday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a35,Female,Thursday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa4001a36,Male,Saturday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001a37,Female,Friday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001a38,Male,Monday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a39,Female,Thursday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa4001a3a,Male,Monday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa4001a3b,Female,Friday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa4001a3c,Male,Saturday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001a3d,Male,Thursday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001a3e,Female,Saturday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a3f,Male,Thursday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001a40,Female,Friday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a41,Male,Monday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a42,Male,Thursday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001a43,Female,Monday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001a44,Male,Thursday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001a45,Male,Saturday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a46,Male,Thursday,Night,Theft,Fullerton
+5722cce2fc13ae3fa4001a47,Male,Saturday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a48,Male,Monday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001a49,Male,Friday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001a4a,Male,Friday,Night,Theft,Costa Mesa
+5722cce2fc13ae3fa4001a4b,Male,Friday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001a4c,Female,Saturday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa4001a4d,Female,Thursday,Afternoon,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a4e,Female,Saturday,Night,Assault,Fullerton
+5722cce2fc13ae3fa4001a4f,Male,Friday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001a50,Female,Thursday,Night,Theft,Fullerton
+5722cce2fc13ae3fa4001a51,Male,Saturday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa4001a52,Female,Saturday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001a53,Male,Friday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001a54,Female,Monday,Night,Theft,Fullerton
+5722cce2fc13ae3fa4001a55,Female,Friday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001a56,Female,Friday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001a57,Female,Friday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001a58,Female,Thursday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001a59,Male,Monday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001a5a,Male,Friday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa4001a5b,Female,Thursday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001a5c,Female,Monday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001a5d,Male,Saturday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a5e,Male,Thursday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001a5f,Male,Monday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa4001a60,Male,Monday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa4001a61,Female,Thursday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001a62,Female,Monday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa4001a63,Female,Friday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001a64,Male,Friday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a65,Male,Saturday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a66,Female,Thursday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001a67,Male,Saturday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001a68,Female,Friday,Night,Theft,Costa Mesa
+5722cce2fc13ae3fa4001a69,Male,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001a6a,Female,Saturday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001a6b,Male,Monday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001a6c,Female,Saturday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001a6d,Female,Friday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001a6e,Male,Saturday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001a6f,Male,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001a70,Male,Monday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001a71,Male,Saturday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a72,Male,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001a73,Female,Thursday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001a74,Male,Monday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a75,Female,Monday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a76,Female,Monday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001a77,Female,Thursday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001a78,Female,Monday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001a79,Male,Saturday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a7a,Male,Monday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001a7b,Male,Friday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a7c,Male,Monday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001a7d,Male,Monday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001a7e,Male,Friday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001a7f,Female,Saturday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a80,Female,Friday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a81,Female,Monday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001a82,Male,Monday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001a83,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001a84,Female,Friday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001a85,Male,Saturday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a86,Female,Monday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001a87,Male,Friday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001a88,Male,Friday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa4001a89,Female,Monday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa4001a8a,Male,Friday,Night,Theft,Tustin
+5722cce2fc13ae3fa4001a8b,Male,Monday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a8c,Male,Monday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa4001a8d,Female,Monday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001a8e,Male,Monday,Afternoon,Kidnap,Fullerton
+5722cce2fc13ae3fa4001a8f,Male,Monday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001a90,Male,Thursday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001a91,Female,Friday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001a92,Male,Monday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001a93,Female,Monday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa4001a94,Female,Saturday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa4001a95,Female,Saturday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001a96,Male,Friday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001a97,Female,Monday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001a98,Male,Saturday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa4001a99,Male,Friday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001a9a,Female,Friday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001a9b,Female,Thursday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa4001a9c,Male,Monday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001a9d,Male,Saturday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001a9e,Female,Saturday,Night,Assault,Fullerton
+5722cce2fc13ae3fa4001a9f,Male,Saturday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001aa0,Female,Monday,Evening,Assault,Tustin
+5722cce2fc13ae3fa4001aa1,Male,Friday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001aa2,Male,Monday,Night,Theft,Fullerton
+5722cce2fc13ae3fa4001aa3,Male,Monday,Night,Theft,Fullerton
+5722cce2fc13ae3fa4001aa4,Female,Saturday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa4001aa5,Female,Friday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001aa6,Male,Monday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa4001aa7,Female,Friday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001aa8,Female,Friday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001aa9,Female,Saturday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001aaa,Female,Friday,Night,Theft,Costa Mesa
+5722cce2fc13ae3fa4001aab,Male,Friday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001aac,Male,Saturday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001aad,Male,Friday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001aae,Male,Friday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001aaf,Male,Saturday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001ab0,Female,Monday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001ab1,Male,Monday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa4001ab2,Male,Friday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001ab3,Male,Monday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa4001ab4,Male,Thursday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa4001ab5,Male,Monday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001ab6,Male,Saturday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001ab7,Male,Thursday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001ab8,Female,Friday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001ab9,Female,Saturday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001aba,Female,Friday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001abb,Male,Thursday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001abc,Female,Monday,Afternoon,Kidnap,Fullerton
+5722cce2fc13ae3fa4001abd,Male,Thursday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001abe,Female,Saturday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa4001abf,Female,Thursday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa4001ac0,Female,Saturday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001ac1,Male,Friday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001ac2,Female,Thursday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001ac3,Male,Saturday,Afternoon,Kidnap,Fullerton
+5722cce2fc13ae3fa4001ac4,Male,Thursday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001ac5,Female,Thursday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001ac6,Female,Friday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001ac7,Female,Monday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001ac8,Male,Monday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa4001ac9,Male,Saturday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa4001aca,Female,Monday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa4001acb,Male,Monday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001acc,Female,Friday,Evening,Theft,Fullerton
+5722cce2fc13ae3fa4001acd,Female,Friday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001ace,Male,Saturday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001acf,Female,Monday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001ad0,Female,Thursday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001ad1,Female,Monday,Afternoon,Assault,Tustin
+5722cce2fc13ae3fa4001ad2,Female,Thursday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001ad3,Male,Saturday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001ad4,Female,Monday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001ad5,Female,Monday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa4001ad6,Female,Friday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001ad7,Male,Thursday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001ad8,Female,Thursday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001ad9,Male,Thursday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001ada,Female,Thursday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001adb,Female,Monday,Evening,Assault,Tustin
+5722cce2fc13ae3fa4001adc,Female,Monday,Afternoon,Assault,Santa Ana
+5722cce2fc13ae3fa4001add,Female,Thursday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa4001ade,Male,Thursday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001adf,Female,Friday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa4001ae0,Male,Friday,Night,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001ae1,Female,Saturday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001ae2,Male,Monday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa4001ae3,Male,Friday,Night,Theft,Fullerton
+5722cce2fc13ae3fa4001ae4,Male,Friday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001ae5,Male,Thursday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa4001ae6,Female,Monday,Afternoon,Assault,Santa Ana
+5722cce2fc13ae3fa4001ae7,Male,Saturday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001ae8,Male,Saturday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa4001ae9,Male,Friday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001aea,Male,Monday,Night,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001aeb,Female,Thursday,Evening,Assault,Tustin
+5722cce2fc13ae3fa4001aec,Female,Friday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001aed,Female,Thursday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001aee,Female,Thursday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001aef,Male,Monday,Night,Assault,Fullerton
+5722cce2fc13ae3fa4001af0,Male,Friday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001af1,Male,Saturday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa4001af2,Male,Thursday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001af3,Female,Monday,Afternoon,Assault,Santa Ana
+5722cce2fc13ae3fa4001af4,Male,Thursday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa4001af5,Male,Friday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa4001af6,Female,Friday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa4001af7,Male,Monday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa4001af8,Female,Saturday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001af9,Male,Thursday,Afternoon,Theft,Costa Mesa
+5722cce2fc13ae3fa4001afa,Female,Monday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001afb,Female,Friday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa4001afc,Male,Monday,Afternoon,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001afd,Male,Monday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001afe,Male,Monday,Night,Kidnap,Tustin
+5722cce2fc13ae3fa4001aff,Male,Friday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001b00,Female,Friday,Afternoon,Shooting,Santa Ana
+5722cce2fc13ae3fa4001b01,Male,Saturday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001b02,Male,Thursday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001b03,Female,Thursday,Night,Kidnap,Fullerton
+5722cce2fc13ae3fa4001b04,Male,Monday,Evening,Shooting,Tustin
+5722cce2fc13ae3fa4001b05,Male,Thursday,Afternoon,Shooting,Tustin
+5722cce2fc13ae3fa4001b06,Female,Monday,Night,Assault,Fullerton
+5722cce2fc13ae3fa4001b07,Female,Friday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001b08,Male,Friday,Evening,Kidnap,Fullerton
+5722cce2fc13ae3fa4001b09,Male,Monday,Night,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001b0a,Male,Monday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001b0b,Male,Monday,Afternoon,Theft,Tustin
+5722cce2fc13ae3fa4001b0c,Male,Thursday,Afternoon,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001b0d,Female,Saturday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001b0e,Male,Saturday,Night,Assault,Costa Mesa
+5722cce2fc13ae3fa4001b0f,Male,Friday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa4001b10,Female,Monday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001b11,Female,Saturday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa4001b12,Female,Thursday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001b13,Male,Saturday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001b14,Female,Saturday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001b15,Male,Saturday,Evening,Kidnap,Tustin
+5722cce2fc13ae3fa4001b16,Male,Monday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001b17,Male,Thursday,Evening,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001b18,Female,Monday,Evening,Assault,Santa Ana
+5722cce2fc13ae3fa4001b19,Male,Saturday,Afternoon,Assault,Fullerton
+5722cce2fc13ae3fa4001b1a,Female,Monday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001b1b,Female,Friday,Evening,Theft,Costa Mesa
+5722cce2fc13ae3fa4001b1c,Male,Friday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001b1d,Male,Friday,Afternoon,Shooting,Fullerton
+5722cce2fc13ae3fa4001b1e,Male,Monday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa4001b1f,Female,Monday,Evening,Shooting,Santa Ana
+5722cce2fc13ae3fa4001b20,Female,Saturday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001b21,Female,Thursday,Evening,Kidnap,Santa Ana
+5722cce2fc13ae3fa4001b22,Female,Friday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001b23,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cce2fc13ae3fa4001b24,Female,Thursday,Night,Assault,Tustin
+5722cce2fc13ae3fa4001b25,Female,Saturday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001b26,Male,Friday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001b27,Male,Saturday,Afternoon,Kidnap,Tustin
+5722cce2fc13ae3fa4001b28,Male,Friday,Night,Assault,Santa Ana
+5722cce2fc13ae3fa4001b29,Male,Saturday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001b2a,Male,Thursday,Night,Theft,Santa Ana
+5722cce2fc13ae3fa4001b2b,Female,Thursday,Evening,Theft,Santa Ana
+5722cce2fc13ae3fa4001b2c,Female,Thursday,Night,Theft,Costa Mesa
+5722cce2fc13ae3fa4001b2d,Female,Saturday,Night,Shooting,Tustin
+5722cce2fc13ae3fa4001b2e,Male,Saturday,Evening,Assault,Fullerton
+5722cce2fc13ae3fa4001b2f,Female,Monday,Afternoon,Shooting,Costa Mesa
+5722cce2fc13ae3fa4001b30,Male,Thursday,Afternoon,Assault,Costa Mesa
+5722cce2fc13ae3fa4001b31,Female,Monday,Night,Shooting,Santa Ana
+5722cce2fc13ae3fa4001b32,Male,Thursday,Evening,Shooting,Fullerton
+5722cce2fc13ae3fa4001b33,Female,Saturday,Evening,Theft,Tustin
+5722cce2fc13ae3fa4001b34,Female,Thursday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001b35,Male,Friday,Afternoon,Theft,Santa Ana
+5722cce2fc13ae3fa4001b36,Female,Friday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001b37,Male,Monday,Afternoon,Theft,Fullerton
+5722cce2fc13ae3fa4001b38,Female,Monday,Night,Shooting,Fullerton
+5722cce2fc13ae3fa4001b39,Female,Thursday,Evening,Assault,Costa Mesa
+5722cce2fc13ae3fa4001b3a,Male,Monday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001b3b,Female,Friday,Evening,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001b3c,Male,Saturday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001b3d,Female,Monday,Afternoon,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001b3e,Male,Saturday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001b3f,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001b40,Female,Saturday,Evening,Theft,Tustin
+5722cce3fc13ae3fa4001b41,Female,Monday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001b42,Female,Thursday,Night,Assault,Tustin
+5722cce3fc13ae3fa4001b43,Male,Saturday,Evening,Theft,Tustin
+5722cce3fc13ae3fa4001b44,Male,Thursday,Afternoon,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001b45,Male,Monday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001b46,Female,Thursday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001b47,Female,Thursday,Night,Shooting,Santa Ana
+5722cce3fc13ae3fa4001b48,Male,Saturday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001b49,Female,Thursday,Afternoon,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001b4a,Male,Friday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001b4b,Male,Monday,Night,Theft,Costa Mesa
+5722cce3fc13ae3fa4001b4c,Female,Friday,Night,Theft,Santa Ana
+5722cce3fc13ae3fa4001b4d,Male,Thursday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001b4e,Female,Monday,Evening,Assault,Santa Ana
+5722cce3fc13ae3fa4001b4f,Male,Monday,Evening,Assault,Tustin
+5722cce3fc13ae3fa4001b50,Female,Thursday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001b51,Male,Thursday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001b52,Male,Saturday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001b53,Male,Friday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001b54,Female,Thursday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001b55,Female,Friday,Evening,Assault,Santa Ana
+5722cce3fc13ae3fa4001b56,Female,Monday,Night,Theft,Santa Ana
+5722cce3fc13ae3fa4001b57,Female,Saturday,Night,Theft,Santa Ana
+5722cce3fc13ae3fa4001b58,Male,Thursday,Afternoon,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001b59,Female,Friday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001b5a,Female,Monday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001b5b,Male,Saturday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001b5c,Male,Friday,Evening,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001b5d,Male,Thursday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001b5e,Male,Thursday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001b5f,Female,Friday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001b60,Male,Saturday,Evening,Kidnap,Tustin
+5722cce3fc13ae3fa4001b61,Male,Thursday,Afternoon,Assault,Costa Mesa
+5722cce3fc13ae3fa4001b62,Male,Friday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001b63,Female,Thursday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001b64,Female,Monday,Night,Assault,Tustin
+5722cce3fc13ae3fa4001b65,Female,Thursday,Night,Theft,Tustin
+5722cce3fc13ae3fa4001b66,Female,Saturday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001b67,Male,Monday,Night,Assault,Santa Ana
+5722cce3fc13ae3fa4001b68,Male,Saturday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001b69,Female,Saturday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001b6a,Female,Thursday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001b6b,Female,Saturday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001b6c,Female,Friday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001b6d,Female,Friday,Night,Assault,Santa Ana
+5722cce3fc13ae3fa4001b6e,Male,Friday,Afternoon,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001b6f,Male,Saturday,Afternoon,Shooting,Tustin
+5722cce3fc13ae3fa4001b70,Female,Thursday,Evening,Shooting,Fullerton
+5722cce3fc13ae3fa4001b71,Female,Friday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001b72,Male,Friday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001b73,Female,Monday,Evening,Assault,Tustin
+5722cce3fc13ae3fa4001b74,Male,Monday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001b75,Male,Saturday,Evening,Theft,Costa Mesa
+5722cce3fc13ae3fa4001b76,Male,Thursday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001b77,Male,Saturday,Afternoon,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001b78,Female,Thursday,Evening,Shooting,Tustin
+5722cce3fc13ae3fa4001b79,Female,Saturday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001b7a,Female,Friday,Evening,Assault,Costa Mesa
+5722cce3fc13ae3fa4001b7b,Male,Thursday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001b7c,Female,Monday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001b7d,Female,Thursday,Evening,Theft,Tustin
+5722cce3fc13ae3fa4001b7e,Female,Saturday,Night,Assault,Tustin
+5722cce3fc13ae3fa4001b7f,Female,Monday,Evening,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001b80,Male,Monday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001b81,Male,Thursday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001b82,Male,Monday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001b83,Male,Monday,Afternoon,Assault,Costa Mesa
+5722cce3fc13ae3fa4001b84,Male,Monday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001b85,Female,Monday,Evening,Theft,Costa Mesa
+5722cce3fc13ae3fa4001b86,Female,Saturday,Evening,Assault,Santa Ana
+5722cce3fc13ae3fa4001b87,Female,Thursday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001b88,Male,Monday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001b89,Male,Friday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001b8a,Male,Saturday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001b8b,Male,Saturday,Evening,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001b8c,Male,Thursday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001b8d,Male,Friday,Evening,Kidnap,Tustin
+5722cce3fc13ae3fa4001b8e,Female,Monday,Afternoon,Assault,Santa Ana
+5722cce3fc13ae3fa4001b8f,Male,Thursday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001b90,Female,Monday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001b91,Female,Friday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001b92,Female,Friday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001b93,Female,Saturday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001b94,Female,Thursday,Afternoon,Shooting,Tustin
+5722cce3fc13ae3fa4001b95,Female,Saturday,Evening,Assault,Santa Ana
+5722cce3fc13ae3fa4001b96,Male,Thursday,Night,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001b97,Female,Saturday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001b98,Female,Thursday,Evening,Shooting,Tustin
+5722cce3fc13ae3fa4001b99,Male,Monday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001b9a,Female,Friday,Afternoon,Shooting,Tustin
+5722cce3fc13ae3fa4001b9b,Male,Thursday,Evening,Shooting,Fullerton
+5722cce3fc13ae3fa4001b9c,Male,Thursday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001b9d,Male,Friday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001b9e,Male,Saturday,Evening,Theft,Fullerton
+5722cce3fc13ae3fa4001b9f,Female,Monday,Night,Shooting,Fullerton
+5722cce3fc13ae3fa4001ba0,Female,Friday,Evening,Shooting,Tustin
+5722cce3fc13ae3fa4001ba1,Female,Monday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001ba2,Male,Friday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001ba3,Female,Monday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001ba4,Male,Saturday,Evening,Theft,Costa Mesa
+5722cce3fc13ae3fa4001ba5,Male,Monday,Night,Assault,Tustin
+5722cce3fc13ae3fa4001ba6,Male,Friday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001ba7,Female,Monday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001ba8,Male,Saturday,Afternoon,Assault,Santa Ana
+5722cce3fc13ae3fa4001ba9,Female,Saturday,Afternoon,Theft,Santa Ana
+5722cce3fc13ae3fa4001baa,Female,Friday,Night,Shooting,Fullerton
+5722cce3fc13ae3fa4001bab,Male,Saturday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001bac,Female,Monday,Night,Theft,Tustin
+5722cce3fc13ae3fa4001bad,Female,Thursday,Afternoon,Theft,Santa Ana
+5722cce3fc13ae3fa4001bae,Female,Monday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001baf,Female,Thursday,Evening,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001bb0,Female,Saturday,Afternoon,Assault,Santa Ana
+5722cce3fc13ae3fa4001bb1,Female,Monday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001bb2,Female,Saturday,Evening,Assault,Costa Mesa
+5722cce3fc13ae3fa4001bb3,Female,Monday,Evening,Shooting,Tustin
+5722cce3fc13ae3fa4001bb4,Male,Saturday,Evening,Assault,Costa Mesa
+5722cce3fc13ae3fa4001bb5,Female,Saturday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001bb6,Male,Saturday,Evening,Assault,Tustin
+5722cce3fc13ae3fa4001bb7,Female,Friday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001bb8,Male,Friday,Evening,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001bb9,Male,Friday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001bba,Female,Saturday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001bbb,Female,Saturday,Afternoon,Theft,Santa Ana
+5722cce3fc13ae3fa4001bbc,Male,Thursday,Night,Assault,Santa Ana
+5722cce3fc13ae3fa4001bbd,Male,Thursday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001bbe,Male,Saturday,Evening,Assault,Tustin
+5722cce3fc13ae3fa4001bbf,Female,Saturday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001bc0,Female,Monday,Night,Shooting,Santa Ana
+5722cce3fc13ae3fa4001bc1,Male,Friday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001bc2,Female,Friday,Night,Assault,Costa Mesa
+5722cce3fc13ae3fa4001bc3,Male,Friday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001bc4,Male,Saturday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001bc5,Male,Friday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001bc6,Female,Monday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001bc7,Male,Thursday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001bc8,Female,Thursday,Evening,Kidnap,Tustin
+5722cce3fc13ae3fa4001bc9,Male,Thursday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001bca,Male,Thursday,Afternoon,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001bcb,Female,Monday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001bcc,Female,Saturday,Evening,Theft,Tustin
+5722cce3fc13ae3fa4001bcd,Male,Friday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001bce,Female,Monday,Evening,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001bcf,Female,Saturday,Evening,Theft,Fullerton
+5722cce3fc13ae3fa4001bd0,Female,Thursday,Night,Assault,Santa Ana
+5722cce3fc13ae3fa4001bd1,Male,Saturday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001bd2,Female,Monday,Evening,Theft,Costa Mesa
+5722cce3fc13ae3fa4001bd3,Male,Friday,Night,Theft,Costa Mesa
+5722cce3fc13ae3fa4001bd4,Female,Saturday,Evening,Theft,Costa Mesa
+5722cce3fc13ae3fa4001bd5,Male,Thursday,Night,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001bd6,Male,Thursday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001bd7,Male,Thursday,Evening,Assault,Costa Mesa
+5722cce3fc13ae3fa4001bd8,Female,Thursday,Evening,Theft,Tustin
+5722cce3fc13ae3fa4001bd9,Male,Friday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001bda,Male,Thursday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001bdb,Male,Monday,Evening,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001bdc,Male,Saturday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001bdd,Male,Monday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001bde,Male,Friday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001bdf,Female,Friday,Night,Theft,Costa Mesa
+5722cce3fc13ae3fa4001be0,Male,Thursday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001be1,Female,Friday,Night,Theft,Tustin
+5722cce3fc13ae3fa4001be2,Female,Monday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001be3,Female,Thursday,Afternoon,Kidnap,Fullerton
+5722cce3fc13ae3fa4001be4,Male,Friday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001be5,Female,Saturday,Night,Shooting,Santa Ana
+5722cce3fc13ae3fa4001be6,Female,Saturday,Night,Theft,Costa Mesa
+5722cce3fc13ae3fa4001be7,Female,Friday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001be8,Male,Saturday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001be9,Male,Friday,Night,Assault,Santa Ana
+5722cce3fc13ae3fa4001bea,Male,Monday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001beb,Male,Thursday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001bec,Female,Friday,Night,Assault,Santa Ana
+5722cce3fc13ae3fa4001bed,Female,Monday,Night,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001bee,Male,Saturday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001bef,Female,Monday,Night,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001bf0,Male,Friday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001bf1,Female,Friday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001bf2,Female,Thursday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001bf3,Female,Saturday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001bf4,Female,Friday,Night,Theft,Tustin
+5722cce3fc13ae3fa4001bf5,Male,Saturday,Night,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001bf6,Male,Saturday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001bf7,Male,Friday,Night,Shooting,Tustin
+5722cce3fc13ae3fa4001bf8,Male,Saturday,Evening,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001bf9,Female,Saturday,Evening,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001bfa,Female,Friday,Evening,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001bfb,Male,Thursday,Afternoon,Assault,Costa Mesa
+5722cce3fc13ae3fa4001bfc,Male,Friday,Afternoon,Assault,Santa Ana
+5722cce3fc13ae3fa4001bfd,Female,Thursday,Afternoon,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001bfe,Male,Monday,Afternoon,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001bff,Male,Saturday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001c00,Female,Monday,Night,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c01,Male,Thursday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c02,Male,Friday,Evening,Shooting,Fullerton
+5722cce3fc13ae3fa4001c03,Female,Saturday,Night,Assault,Tustin
+5722cce3fc13ae3fa4001c04,Female,Friday,Night,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c05,Female,Monday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001c06,Female,Thursday,Afternoon,Theft,Santa Ana
+5722cce3fc13ae3fa4001c07,Male,Saturday,Night,Theft,Santa Ana
+5722cce3fc13ae3fa4001c08,Female,Thursday,Evening,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c09,Male,Thursday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c0a,Male,Thursday,Evening,Assault,Tustin
+5722cce3fc13ae3fa4001c0b,Male,Monday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001c0c,Female,Monday,Evening,Assault,Tustin
+5722cce3fc13ae3fa4001c0d,Female,Thursday,Night,Assault,Tustin
+5722cce3fc13ae3fa4001c0e,Male,Monday,Evening,Assault,Santa Ana
+5722cce3fc13ae3fa4001c0f,Male,Saturday,Night,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c10,Female,Friday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001c11,Male,Saturday,Afternoon,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c12,Female,Saturday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001c13,Female,Saturday,Night,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c14,Male,Monday,Evening,Shooting,Fullerton
+5722cce3fc13ae3fa4001c15,Female,Monday,Afternoon,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c16,Male,Saturday,Afternoon,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001c17,Female,Monday,Night,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c18,Female,Monday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001c19,Female,Saturday,Afternoon,Shooting,Tustin
+5722cce3fc13ae3fa4001c1a,Female,Thursday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001c1b,Male,Friday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001c1c,Female,Friday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c1d,Female,Thursday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001c1e,Male,Saturday,Evening,Kidnap,Tustin
+5722cce3fc13ae3fa4001c1f,Male,Monday,Afternoon,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c20,Female,Monday,Afternoon,Assault,Santa Ana
+5722cce3fc13ae3fa4001c21,Female,Saturday,Night,Theft,Tustin
+5722cce3fc13ae3fa4001c22,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c23,Female,Friday,Afternoon,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c24,Female,Friday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001c25,Male,Monday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001c26,Female,Thursday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c27,Male,Saturday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001c28,Female,Thursday,Afternoon,Assault,Santa Ana
+5722cce3fc13ae3fa4001c29,Male,Saturday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001c2a,Female,Monday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c2b,Male,Friday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001c2c,Female,Saturday,Night,Theft,Santa Ana
+5722cce3fc13ae3fa4001c2d,Female,Thursday,Night,Assault,Tustin
+5722cce3fc13ae3fa4001c2e,Male,Monday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c2f,Male,Saturday,Evening,Kidnap,Tustin
+5722cce3fc13ae3fa4001c30,Male,Monday,Night,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c31,Female,Monday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c32,Male,Thursday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c33,Male,Thursday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001c34,Female,Thursday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001c35,Male,Saturday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c36,Female,Thursday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c37,Female,Thursday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c38,Male,Monday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001c39,Male,Thursday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c3a,Male,Saturday,Night,Shooting,Tustin
+5722cce3fc13ae3fa4001c3b,Male,Monday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c3c,Male,Friday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001c3d,Female,Thursday,Night,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c3e,Male,Saturday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001c3f,Female,Saturday,Evening,Shooting,Tustin
+5722cce3fc13ae3fa4001c40,Male,Monday,Night,Shooting,Fullerton
+5722cce3fc13ae3fa4001c41,Female,Monday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c42,Male,Saturday,Afternoon,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c43,Male,Friday,Night,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c44,Male,Saturday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001c45,Male,Friday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001c46,Female,Friday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001c47,Male,Monday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c48,Female,Friday,Afternoon,Shooting,Tustin
+5722cce3fc13ae3fa4001c49,Female,Thursday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c4a,Female,Saturday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c4b,Male,Friday,Afternoon,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c4c,Male,Saturday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001c4d,Male,Saturday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001c4e,Male,Friday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001c4f,Female,Saturday,Afternoon,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c50,Female,Saturday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001c51,Female,Monday,Afternoon,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c52,Male,Friday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001c53,Female,Friday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001c54,Male,Thursday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c55,Female,Friday,Night,Theft,Tustin
+5722cce3fc13ae3fa4001c56,Male,Friday,Evening,Theft,Fullerton
+5722cce3fc13ae3fa4001c57,Male,Thursday,Night,Shooting,Fullerton
+5722cce3fc13ae3fa4001c58,Female,Monday,Night,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c59,Female,Monday,Afternoon,Assault,Fullerton
+5722cce3fc13ae3fa4001c5a,Female,Saturday,Night,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c5b,Female,Thursday,Night,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001c5c,Female,Thursday,Afternoon,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001c5d,Male,Monday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001c5e,Female,Saturday,Evening,Shooting,Fullerton
+5722cce3fc13ae3fa4001c5f,Female,Friday,Evening,Shooting,Tustin
+5722cce3fc13ae3fa4001c60,Male,Monday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001c61,Male,Friday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c62,Male,Saturday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001c63,Male,Thursday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001c64,Female,Friday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001c65,Female,Monday,Evening,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c66,Male,Saturday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c67,Male,Monday,Night,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c68,Female,Monday,Night,Kidnap,Tustin
+5722cce3fc13ae3fa4001c69,Male,Thursday,Evening,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c6a,Female,Saturday,Afternoon,Assault,Tustin
+5722cce3fc13ae3fa4001c6b,Female,Monday,Afternoon,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c6c,Female,Monday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001c6d,Female,Saturday,Afternoon,Assault,Santa Ana
+5722cce3fc13ae3fa4001c6e,Female,Thursday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c6f,Female,Monday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001c70,Male,Saturday,Evening,Assault,Tustin
+5722cce3fc13ae3fa4001c71,Female,Monday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c72,Male,Thursday,Evening,Assault,Santa Ana
+5722cce3fc13ae3fa4001c73,Female,Friday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001c74,Female,Monday,Evening,Kidnap,Tustin
+5722cce3fc13ae3fa4001c75,Female,Saturday,Night,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c76,Female,Friday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001c77,Female,Friday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001c78,Female,Thursday,Evening,Assault,Fullerton
+5722cce3fc13ae3fa4001c79,Male,Monday,Night,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c7a,Female,Friday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001c7b,Male,Saturday,Afternoon,Kidnap,Tustin
+5722cce3fc13ae3fa4001c7c,Female,Saturday,Afternoon,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c7d,Male,Saturday,Evening,Theft,Santa Ana
+5722cce3fc13ae3fa4001c7e,Male,Thursday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001c7f,Male,Thursday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c80,Male,Monday,Afternoon,Shooting,Tustin
+5722cce3fc13ae3fa4001c81,Female,Monday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c82,Female,Saturday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001c83,Female,Thursday,Afternoon,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c84,Male,Saturday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c85,Male,Friday,Afternoon,Shooting,Tustin
+5722cce3fc13ae3fa4001c86,Male,Saturday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c87,Male,Friday,Evening,Assault,Santa Ana
+5722cce3fc13ae3fa4001c88,Male,Thursday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c89,Male,Friday,Evening,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c8a,Female,Monday,Evening,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c8b,Female,Friday,Night,Assault,Fullerton
+5722cce3fc13ae3fa4001c8c,Female,Friday,Night,Kidnap,Fullerton
+5722cce3fc13ae3fa4001c8d,Female,Friday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001c8e,Female,Saturday,Evening,Theft,Fullerton
+5722cce3fc13ae3fa4001c8f,Female,Saturday,Evening,Kidnap,Costa Mesa
+5722cce3fc13ae3fa4001c90,Female,Monday,Afternoon,Shooting,Fullerton
+5722cce3fc13ae3fa4001c91,Male,Monday,Night,Theft,Santa Ana
+5722cce3fc13ae3fa4001c92,Female,Saturday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001c93,Male,Monday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c94,Male,Saturday,Afternoon,Shooting,Santa Ana
+5722cce3fc13ae3fa4001c95,Male,Friday,Afternoon,Shooting,Costa Mesa
+5722cce3fc13ae3fa4001c96,Female,Friday,Afternoon,Kidnap,Santa Ana
+5722cce3fc13ae3fa4001c97,Male,Thursday,Night,Assault,Tustin
+5722cce3fc13ae3fa4001c98,Male,Friday,Afternoon,Theft,Costa Mesa
+5722cce3fc13ae3fa4001c99,Male,Friday,Afternoon,Assault,Santa Ana
+5722cce3fc13ae3fa4001c9a,Male,Thursday,Night,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c9b,Female,Monday,Evening,Assault,Tustin
+5722cce3fc13ae3fa4001c9c,Female,Thursday,Afternoon,Assault,Costa Mesa
+5722cce3fc13ae3fa4001c9d,Female,Thursday,Evening,Theft,Fullerton
+5722cce3fc13ae3fa4001c9e,Female,Friday,Afternoon,Theft,Fullerton
+5722cce3fc13ae3fa4001c9f,Male,Monday,Evening,Shooting,Santa Ana
+5722cce3fc13ae3fa4001ca0,Female,Thursday,Afternoon,Theft,Tustin
+5722cce3fc13ae3fa4001ca1,Male,Monday,Evening,Kidnap,Tustin
+5722cce3fc13ae3fa4001ca2,Female,Monday,Night,Theft,Fullerton
+5722cce3fc13ae3fa4001ca3,Male,Friday,Night,Kidnap,Fullerton
